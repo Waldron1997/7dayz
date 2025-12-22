@@ -804,9 +804,9 @@
         <max>0</max>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <saferadius>1000</saferadius>
-        <distanceradius>1000</distanceradius>
-        <cleanupradius>1000</cleanupradius>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>500</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>uniform</position>
         <limit>child</limit>
