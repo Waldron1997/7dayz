@@ -510,7 +510,7 @@
 			<item name="Mag_CZ550_10rnd" chance="0.03" />
 			<item name="Mag_SSG82_5rnd" chance="0.03" />
 		</cargo>
-		<cargo chance="1.0" name="Xmas_Fillers_Small">
+		<cargo chance="0.05" name="Xmas_Fillers_Small">
 			<item name="XmasLights" chance="0.10" />
 			<item name="GasMask_filter" chance="0.05" />
 			<item name="Battery9V" chance="0.10" />
