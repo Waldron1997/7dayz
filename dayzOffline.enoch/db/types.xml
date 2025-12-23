@@ -2895,7 +2895,7 @@
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
     </type>
     <type name="Barrel_Blue">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -2909,7 +2909,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Green">
-        <nominal>40</nominal>
+        <nominal>46</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -2923,7 +2923,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Red">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -2937,7 +2937,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Yellow">
-        <nominal>40</nominal>
+        <nominal>45</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>20</min>
@@ -16814,7 +16814,7 @@
         <usage name="Village"/>
     </type>
     <type name="SeaChest">
-        <nominal>20</nominal>
+        <nominal>42</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>10</min>
