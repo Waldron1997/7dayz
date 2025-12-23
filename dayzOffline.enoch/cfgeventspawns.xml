@@ -623,7 +623,7 @@
 		<pos x="10253.083008" z="2127.03418" a="344.12796" />
 	</event>
 	<event name="VehicleTruck01">
-		<zone smin="1" smax="3" dmin="3" dmax="3" r="10" />
+		<zone smin="10" smax="10" dmin="5" dmax="5" r="10" />
 		<pos x="6227.34" z="6799.80" a="42.67" />
 
 	</event>
@@ -716,7 +716,10 @@
 		<pos x="10213.420" z="2185.113" a="0" y="242.528" group="Traffic_Widok"/>
 		<pos x="769.045" z="6739.631" a="0" y="212.431" group="Traffic_Zalesie"/>
 	</event>
-
+		<event name="StaticPoliceSituationTest">
+		<zone smin="15" smax="15" dmin="0" dmax="0" r="10" />
+		<pos x="6227.34" z="6799.80" a="0" y="275.88" group="Traffic_Adamow"/>
+	</event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
