@@ -1123,7 +1123,7 @@
         <saferadius>1000</saferadius>
         <distanceradius>10</distanceradius>
         <cleanupradius>10</cleanupradius>
-        <secondary>InfectedArmy</secondary>
+        <secondary>InfectedPrisoner</secondary>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
