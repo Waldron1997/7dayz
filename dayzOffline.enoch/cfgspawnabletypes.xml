@@ -4826,10 +4826,19 @@
 			<item name="ReindeerSteakMeat" chance="1.00" />
 		</attachments>
          <attachments chance="1.00">
-			<item name="LandMineTrap" chance="1.00" />
+			<item name="CannabisSeeds" chance="0.80" />
 		</attachments>
          <attachments chance="1.00">
-			<item name="LandMineTrap" chance="1.00" />
+			<item name="BookTheCallOfTheWild" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BookTheCallOfTheWild" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BookTheCallOfTheWild" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BookTheCallOfTheWild" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00"> <item name="AmmoBox_00buck_10rnd" /> </attachments>
 		<attachments chance="1.00"> <item name="AmmoBox_00buck_10rnd" /> </attachments>
@@ -4869,8 +4878,6 @@
 		<attachments chance="1.00"> <item name="AmmoBox_9x39AP_20Rnd" /> </attachments>
 		<attachments chance="1.00"> <item name="AmmoBox_9x39_20Rnd" /> </attachments>
 		<attachments chance="1.00"> <item name="AmmoBox_9x39_20Rnd" /> </attachments>
-
-
 	</type>
 	<type name="Truck_01_Covered_Blue">
 		<attachments chance="1.00">
