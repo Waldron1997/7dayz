@@ -4712,10 +4712,10 @@
 	</type>
 	<type name="Truck_01_Covered">
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="1.0" />
+			<item name="Truck_01_Wheel" chance="0.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_Wheel" chance="1.0" />
+			<item name="Truck_01_Wheel" chance="0.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.0" />
@@ -4727,13 +4727,13 @@
 			<item name="Truck_01_WheelDouble" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="1.0" />
+			<item name="Truck_01_WheelDouble" chance="0.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Truck_01_WheelDouble" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Truck_01_WheelDouble" chance="1.0" />
+			<item name="Truck_01_WheelDouble" chance="0.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TruckBattery" chance="0.00" />
