@@ -2759,7 +2759,7 @@
 	<!--Religious-->
 	<type name="ZmbM_priestPopSkinny">
 		<cargo preset="foodHermit" />
-		<cargo chance="0.15"> <item name="BookBible" /> </cargo>		
+		<cargo chance="0.25"> <item name="BookBible" /> </cargo>		
 	</type>
 	<!--Solitude-->
 	<type name="ZmbF_HikerSkinny_Blue">
