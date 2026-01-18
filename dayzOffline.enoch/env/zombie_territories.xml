@@ -301,6 +301,7 @@
 
     </territory>
     <territory color="1291845632">
+	<!--removed for Rituals
 	<zone name="InfectedReligious" smin="0" smax="0" dmin="26" dmax="51" x="11144.1" z="4356.73" r="40"/>
 	<zone name="InfectedReligious" smin="0" smax="0" dmin="21" dmax="42" x="3165.5" z="6883.08" r="40"/>
 	<zone name="InfectedReligious" smin="0" smax="0" dmin="21" dmax="42" x="1769.99" z="7199.77" r="40"/>
@@ -317,6 +318,7 @@
 	<zone name="InfectedReligious" smin="0" smax="0" dmin="26" dmax="51" x="6004.17" z="4073.33" r="33"/>
 	<zone name="InfectedReligious" smin="0" smax="0" dmin="14" dmax="21" x="9772.5" z="10092.5" r="40"/>
 	<zone name="InfectedReligious" smin="0" smax="0" dmin="10" dmax="21" x="12350" z="10875" r="33"/>
+	-->
 
     </territory>
     <territory color="1124502272">
@@ -539,6 +541,20 @@
           <zone name="InfectedVillage" smin="0" smax="0" dmin="45" dmax="60" x="11006" z="10435" r="200"/>
           <zone name="InfectedPolice" smin="0" smax="0" dmin="45" dmax="60" x="12500" z="10991" r="200"/>
 
+<!--Rituals-->
+
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="40" dmax="55" x="5789.45" z="4673.21" r="40"/>
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="40" dmax="55" x="11730.27" z="5015.39" r="40"/>
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="40" dmax="55" x="9764.45" z="10098.76" r="40"/>
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="40" dmax="55" x="4693.75" z="5610.51" r="40"/>
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="40" dmax="55" x="8964.06" z="6848.38" r="40"/>
+		<zone name="InfectedReligious" smin="0" smax="0" dmin="40" dmax="55" x="886.91" z="5470.69" r="40"/>
+		<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="10" x="5794.45" z="4678.21" r="5"/>
+		<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="10" x="11735.27" z="5020.39" r="5"/>
+		<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="10" x="9769.45" z="10103.76" r="5"/>
+		<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="10" x="4698.75" z="5615.51" r="5"/>
+		<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="10" x="8969.06" z="6853.38" r="5"/>
+		<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="10" x="891.91" z="5475.69" r="5"/>
 
 
 
