@@ -292,11 +292,25 @@
 
     </territory>
     <territory color="2260328206">
+		<!--Removed for infestation event
 	<zone name="InfectedNBC" smin="0" smax="0" dmin="21" dmax="42" x="7823.21" z="5846.43" r="53"/>
 	<zone name="InfectedNBC" smin="0" smax="0" dmin="21" dmax="42" x="7667.86" z="5962.5" r="53"/>
 	<zone name="InfectedNBC" smin="0" smax="0" dmin="21" dmax="42" x="7541.74" z="6069.87" r="53"/>
 	<zone name="InfectedNBC" smin="0" smax="0" dmin="12" dmax="21" x="4235.71" z="10364.3" r="53"/>
 	<zone name="InfectedNBC" smin="0" smax="0" dmin="12" dmax="21" x="4051.79" z="10194.6" r="53"/>
+		-->
+		<!--infestation event-->
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="6824.61" z="4698.32" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="7087.11" z="3967.02" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="7427.73" z="5360.37" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="5340.63" z="3765.43" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="11905.08" z="5311.91" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="6013.28" z="4967.72" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="3291.02" z="3673.99" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="3135.16" z="4926.97" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="10707.03" z="6172.51" r="40"/>
+		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="50" x="8953.13" z="5361.72" r="40"/>
+
 
 
     </territory>
@@ -422,13 +436,13 @@
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="7950" z="11825" r="15"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="8415.63" z="11848.44" r="15"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="11018.75" z="11286.72" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="1450.7" z="7555" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="4076.09" z="8975.31" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="5308.91" z="9493.87" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="6452.27" z="10886.05" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="7955" z="11830" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="8420.63" z="11853.44" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="11023.75" z="11291.72" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="1450.7" z="7555" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="4076.09" z="8975.31" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="5308.91" z="9493.87" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="6452.27" z="10886.05" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="7955" z="11830" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="8420.63" z="11853.44" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="11023.75" z="11291.72" r="15"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="10" dmax="15" x="1455.7" z="7560" r="15"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="10" dmax="15" x="4081.09" z="8980.31" r="15"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="10" dmax="15" x="5313.91" z="9498.87" r="15"/>
@@ -454,7 +468,7 @@
 <!--Bunker-->
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="30" dmax="40" x="550.00" z="1122.66" r="20"/> 
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="40" dmax="50" x="808.59" z="1227.93" r="50"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="20" x="747.66" z="1226.48" r="20"/> 
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="20" x="747.66" z="1226.48" r="20"/> 
 		<zone name="InfectedSpooky" smin="0" smax="0" dmin="2" dmax="5" x="551.00" z="1122.66" r="20"/> 
 		<zone name="InfectedSpooky" smin="0" smax="0" dmin="2" dmax="5" x="803.59" z="1227.93" r="50"/>
 <!--Polana-->
