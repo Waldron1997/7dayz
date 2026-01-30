@@ -3203,6 +3203,12 @@
 	</type>
 	<!--Mummy-->
 	<type name="ZmbM_Mummy">
+	    <attachments chance="1.00">
+			<item name="GreatHelm" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Chestplate" chance="1.0" />
+		</attachments>
 		<cargo chance="0.25"> <item name="BandageDressing" /> </cargo>
         <cargo chance="0.25"> <item name="AmmoBox_545x39Tracer_20Rnd" /> </cargo>
         <cargo chance="0.25"> <item name="AmmoBox_9x19_25rnd" /> </cargo>
