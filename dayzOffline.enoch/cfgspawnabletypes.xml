@@ -2690,7 +2690,13 @@
 		<attachments preset="hatsPolice" />
 	</type>
 	<type name="ZmbM_PolicemanSpecForce">
-		<cargo preset="toolsPolice" />
+    	<attachments chance="1.00">
+			<item name="BallisticHelmet_UN" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PressVest_LightBlue" chance="1.00" />
+		</attachments>
+    	<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
 			<item name="Mag_SSG82_5rnd" chance="0.50" />
@@ -2715,8 +2721,6 @@
 		<cargo chance="0.05"> <item name="BandageDressing" /> </cargo>
 		<cargo chance="0.05"> <item name="Mag_Deagle_9rnd" /> </cargo>
 		<cargo chance="0.07"> <item name="FlashGrenade" /> </cargo>
-		<attachments preset="Presshelmet" />
-		<attachments preset="Pressvest" />
 	</type>
 	<type name="ZmbM_PolicemanSpecForce_Heavy">
 		<cargo preset="toolsPolice" />
