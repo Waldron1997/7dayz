@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 
-file_a = r"C:\Users\twaldron\Github\7dayz\dayzOffline.sakhal\db\types.xml"
-file_b = r"C:\Users\twaldron\Github\7dayz\dayzOffline.enoch\db\types.xml"
+file_a = r"C:\Users\user\Documents\Github\7dayz\dayzOffline.sakhal\db\types.xml"
+file_b = r"C:\Users\user\Documents\Github\7dayz\dayzOffline.enoch\db\types.xml"
 
 tree_a = ET.parse(file_a)
 tree_b = ET.parse(file_b)
