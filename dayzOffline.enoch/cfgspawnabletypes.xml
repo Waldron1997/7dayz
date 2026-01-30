@@ -155,7 +155,7 @@
 		<damage min="0.75" max="0.75" />
 	</type>
 		<type name="Grenade_ChemGas">
-		<damage min="0.99" max="1.00" />
+		<damage min="0.99" max="0.99" />
 	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
