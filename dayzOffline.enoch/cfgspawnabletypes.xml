@@ -154,6 +154,9 @@
 	<type name="PunchedCard">
 		<damage min="0.75" max="0.75" />
 	</type>
+		<type name="Grenade_ChemGas">
+		<damage min="0.99" max="1.00" />
+	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
 	</type>
@@ -1270,6 +1273,8 @@
 		<cargo chance="0.03">
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
+		<cargo chance="0.20"> <item name="BookDelorigineDesEspces" /> </cargo>
+		<cargo chance="0.10"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo preset="ContaminatedCargo" />
