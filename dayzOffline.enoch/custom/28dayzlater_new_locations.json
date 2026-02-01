@@ -1,0 +1,1524 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Decal_Concrete_Panels",
+            "pos": [
+                7240.09521484375,
+                216.71812438964845,
+                7875.5712890625
+            ],
+            "ypr": [
+                -25.200000762939454,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7254.16455078125,
+                217.5731201171875,
+                7899.9873046875
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_Concrete_Panels",
+            "pos": [
+                7236.05517578125,
+                216.61407470703126,
+                7873.62255859375
+            ],
+            "ypr": [
+                -25.200000762939454,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7249.197265625,
+                217.53416442871095,
+                7896.69873046875
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_Concrete_Panels",
+            "pos": [
+                7231.998046875,
+                216.5067596435547,
+                7871.6806640625
+            ],
+            "ypr": [
+                -25.200000762939454,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                7238.849609375,
+                216.9883575439453,
+                7880.55126953125
+            ],
+            "ypr": [
+                -53.999996185302737,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7239.19140625,
+                217.4136962890625,
+                7890.27001953125
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                7239.8095703125,
+                217.00991821289063,
+                7879.12353515625
+            ],
+            "ypr": [
+                -27.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7234.248046875,
+                217.33668518066407,
+                7887.009765625
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                7239.44580078125,
+                217.63404846191407,
+                7879.90478515625
+            ],
+            "ypr": [
+                -27.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen1_5_Pole",
+            "pos": [
+                9419.40625,
+                297.5168151855469,
+                5940.42822265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7224.47802734375,
+                217.09603881835938,
+                7880.59814453125
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7219.31884765625,
+                216.9722900390625,
+                7877.76513671875
+            ],
+            "ypr": [
+                156.60000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Metal2",
+            "pos": [
+                9429.0498046875,
+                295.81732177734377,
+                5923.25
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7213.9833984375,
+                216.83763122558595,
+                7875.05224609375
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7208.8779296875,
+                216.7117156982422,
+                7871.9853515625
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7286.560546875,
+                218.54229736328126,
+                7865.509765625
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen2_6_Hole",
+            "pos": [
+                9422.3427734375,
+                298.2856750488281,
+                5941.04833984375
+            ],
+            "ypr": [
+                170.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7281.56201171875,
+                218.44668579101563,
+                7862.482421875
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7276.5908203125,
+                218.34461975097657,
+                7859.46337890625
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7266.509765625,
+                218.14910888671876,
+                7853.33984375
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7261.44482421875,
+                218.0606231689453,
+                7850.3173828125
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7250.9326171875,
+                217.83592224121095,
+                7845.32080078125
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7245.01416015625,
+                217.69358825683595,
+                7844.53759765625
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7239.099609375,
+                217.54307556152345,
+                7843.64111328125
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7233.24560546875,
+                217.39065551757813,
+                7842.81494140625
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7227.4150390625,
+                217.23858642578126,
+                7842.001953125
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_CementWorks_Hall1",
+            "pos": [
+                9454.0341796875,
+                302.89581298828127,
+                5938.05078125
+            ],
+            "ypr": [
+                -98.9999771118164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7221.4658203125,
+                217.07373046875,
+                7841.2177734375
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9444.458984375,
+                292.4789733886719,
+                5944.0947265625
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9435.6611328125,
+                293.0000305175781,
+                5942.705078125
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7215.63427734375,
+                216.9197998046875,
+                7840.3818359375
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Wood1",
+            "pos": [
+                9425.482421875,
+                297.2749328613281,
+                5921.1376953125
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Barn_Wood1",
+            "pos": [
+                906.5498657226563,
+                323.31903076171877,
+                4118.80322265625
+            ],
+            "ypr": [
+                166.92030334472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4",
+            "pos": [
+                7209.76318359375,
+                216.76734924316407,
+                7839.5615234375
+            ],
+            "ypr": [
+                172.79998779296876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                911.1846923828125,
+                320.08050537109377,
+                4094.447021484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9453.1376953125,
+                292.07916259765627,
+                5945.46533203125
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7244.2197265625,
+                217.46278381347657,
+                7893.4736328125
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                910.8248291015625,
+                320.3443603515625,
+                4090.146240234375
+            ],
+            "ypr": [
+                34.19999313354492,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9461.7587890625,
+                292.1850280761719,
+                5946.857421875
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7229.47705078125,
+                217.2227020263672,
+                7883.845703125
+            ],
+            "ypr": [
+                147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                907.9996337890625,
+                320.7115478515625,
+                4086.81201171875
+            ],
+            "ypr": [
+                46.799983978271487,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9470.53515625,
+                292.1460876464844,
+                5948.21533203125
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7204.69921875,
+                216.63047790527345,
+                7841.279296875
+            ],
+            "ypr": [
+                -136.7999725341797,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                903.0138549804688,
+                321.207763671875,
+                4082.87548828125
+            ],
+            "ypr": [
+                -118.80001831054688,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9475.642578125,
+                292.3735656738281,
+                5945.0146484375
+            ],
+            "ypr": [
+                80.91753387451172,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7200.37939453125,
+                216.5278778076172,
+                7845.35986328125
+            ],
+            "ypr": [
+                -136.7999725341797,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                898.0398559570313,
+                321.52227783203127,
+                4079.657470703125
+            ],
+            "ypr": [
+                -122.39998626708985,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7196.0390625,
+                216.41038513183595,
+                7849.5205078125
+            ],
+            "ypr": [
+                43.200008392333987,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                893.5772094726563,
+                321.766357421875,
+                4075.77587890625
+            ],
+            "ypr": [
+                -131.40000915527345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7259.091796875,
+                217.67129516601563,
+                7899.78076171875
+            ],
+            "ypr": [
+                35.999996185302737,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                891.1090698242188,
+                321.9324035644531,
+                4072.877685546875
+            ],
+            "ypr": [
+                -140.4000244140625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen1_5_Pole",
+            "pos": [
+                9414.6904296875,
+                297.4785461425781,
+                5939.212890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7269.1162109375,
+                217.93606567382813,
+                7892.80419921875
+            ],
+            "ypr": [
+                34.19999313354492,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                888.2850952148438,
+                322.16693115234377,
+                4068.904296875
+            ],
+            "ypr": [
+                -140.4000244140625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen1_5_Pole",
+            "pos": [
+                9410.453125,
+                297.5672912597656,
+                5938.81396484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7278.09619140625,
+                218.15142822265626,
+                7886.953125
+            ],
+            "ypr": [
+                34.19999313354492,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                885.0946044921875,
+                322.4453125,
+                4064.907470703125
+            ],
+            "ypr": [
+                -140.4000244140625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9465.3095703125,
+                292.36114501953127,
+                5932.36767578125
+            ],
+            "ypr": [
+                170.8704376220703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TacticalGoggles",
+            "pos": [
+                9412.6630859375,
+                298.6074523925781,
+                5931.80078125
+            ],
+            "ypr": [
+                165.0096893310547,
+                -13.794903755187989,
+                3.6038436889648439
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_4_D",
+            "pos": [
+                7284.14501953125,
+                218.3600311279297,
+                7879.1513671875
+            ],
+            "ypr": [
+                68.39998626708985,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                882.4135131835938,
+                322.7460632324219,
+                4061.18701171875
+            ],
+            "ypr": [
+                -140.4000244140625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9456.7578125,
+                292.14447021484377,
+                5931.00537109375
+            ],
+            "ypr": [
+                170.8704376220703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_Pole",
+            "pos": [
+                7287.318359375,
+                218.5052490234375,
+                7871.5283203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                879.333740234375,
+                323.12579345703127,
+                4057.427001953125
+            ],
+            "ypr": [
+                -133.20001220703126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9448.455078125,
+                292.15423583984377,
+                5929.66796875
+            ],
+            "ypr": [
+                170.8704376220703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_End_2",
+            "pos": [
+                7282.57958984375,
+                218.28440856933595,
+                7882.765625
+            ],
+            "ypr": [
+                -120.5999755859375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                877.236328125,
+                323.20477294921877,
+                4054.91748046875
+            ],
+            "ypr": [
+                -133.20001220703126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9440.8359375,
+                292.2754821777344,
+                5928.47900390625
+            ],
+            "ypr": [
+                170.8704376220703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_End_2",
+            "pos": [
+                7272.33154296875,
+                218.01809692382813,
+                7890.458984375
+            ],
+            "ypr": [
+                34.200008392333987,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Ramp",
+            "pos": [
+                898.9119873046875,
+                317.2620544433594,
+                4151.107421875
+            ],
+            "ypr": [
+                -102.59999084472656,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9437.96484375,
+                292.09967041015627,
+                5927.9658203125
+            ],
+            "ypr": [
+                170.8704376220703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_End_2",
+            "pos": [
+                7262.375,
+                217.7650604248047,
+                7897.38134765625
+            ],
+            "ypr": [
+                34.200008392333987,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Concrete1",
+            "pos": [
+                910.7142333984375,
+                318.55078125,
+                4136.29150390625
+            ],
+            "ypr": [
+                -90.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_S1023_Blue",
+            "pos": [
+                9429.005859375,
+                297.9657287597656,
+                5928.21435546875
+            ],
+            "ypr": [
+                107.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban2",
+            "pos": [
+                7223.36083984375,
+                217.9501495361328,
+                7872.947265625
+            ],
+            "ypr": [
+                63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_End_2",
+            "pos": [
+                7266.009765625,
+                217.8580780029297,
+                7894.9765625
+            ],
+            "ypr": [
+                -147.59999084472657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_Volha_Grey",
+            "pos": [
+                9445.7783203125,
+                297.91119384765627,
+                5930.4189453125
+            ],
+            "ypr": [
+                80.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_End_2",
+            "pos": [
+                7269.91015625,
+                218.21615600585938,
+                7855.154296875
+            ],
+            "ypr": [
+                -16.199995040893556,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Airfield_HQ",
+            "pos": [
+                7250.818359375,
+                222.7559814453125,
+                7877.1611328125
+            ],
+            "ypr": [
+                154.21023559570313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_End_2",
+            "pos": [
+                7258.029296875,
+                217.99354553222657,
+                7848.234375
+            ],
+            "ypr": [
+                149.3999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                7203.90673828125,
+                215.8218994140625,
+                7864.36328125
+            ],
+            "ypr": [
+                -106.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LeatherSewingKit",
+            "pos": [
+                7240.765625,
+                222.7917022705078,
+                7881.31494140625
+            ],
+            "ypr": [
+                -77.053466796875,
+                -2.131765842437744,
+                5.494619846343994
+            ],
+            "scale": 0.20000000298023225,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9476.748046875,
+                292.42999267578127,
+                5938.20556640625
+            ],
+            "ypr": [
+                80.91752624511719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                7208.921875,
+                215.93954467773438,
+                7865.88330078125
+            ],
+            "ypr": [
+                -106.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                7212.9267578125,
+                216.048583984375,
+                7866.9765625
+            ],
+            "ypr": [
+                -106.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_Lada_Green",
+            "pos": [
+                7200.86376953125,
+                216.43426513671876,
+                7859.4228515625
+            ],
+            "ypr": [
+                63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc_10",
+            "pos": [
+                9473.4482421875,
+                292.2266540527344,
+                5933.6181640625
+            ],
+            "ypr": [
+                170.87045288085938,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_offroad02_aban1",
+            "pos": [
+                7237.48486328125,
+                218.46804809570313,
+                7869.38623046875
+            ],
+            "ypr": [
+                63.0,
+                1.4313621520996094,
+                -0.4206787645816803
+            ],
+            "scale": 0.9998868703842163,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                7217.943359375,
+                216.17837524414063,
+                7868.67578125
+            ],
+            "ypr": [
+                -106.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                7222.95849609375,
+                216.2960205078125,
+                7870.19580078125
+            ],
+            "ypr": [
+                -106.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_dirt_damage_long1",
+            "pos": [
+                7226.96337890625,
+                216.40505981445313,
+                7871.2890625
+            ],
+            "ypr": [
+                -106.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_green",
+            "pos": [
+                7230.76953125,
+                216.4914093017578,
+                7860.47119140625
+            ],
+            "ypr": [
+                161.99996948242188,
+                0.7735952138900757,
+                1.1942988634109498
+            ],
+            "scale": 0.9998971223831177,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Fen2_6_Hole",
+            "pos": [
+                9428.240234375,
+                298.08154296875,
+                5941.97900390625
+            ],
+            "ypr": [
+                171.12478637695313,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999673962593079,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_wall",
+            "pos": [
+                7242.70263671875,
+                225.8105010986328,
+                7874.8876953125
+            ],
+            "ypr": [
+                63.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.5999999046325684,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
