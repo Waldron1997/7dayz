@@ -55,9 +55,15 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": ["custom/28dayzbunkerii.json","custom/28dayztraderg.json","custom/28dayzriver.json","custom/28dayzsurvivorbases.json","custom/QRCODES.json"],
+		"objectSpawnersArr": ["custom/28dayzbunkerii.json",
+								"custom/28dayztraderg.json",
+								"custom/28dayzriver.json",
+								"custom/28dayzsurvivorbases.json",
+								"custom/QRCODES.json",
+								"custom/28dayzlater_new_locations.json"
+							],
 		"environmentMinTemps": [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
-		"environmentMaxTemps": [15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15],
+		"environmentMaxTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
 	"BaseBuildingData":

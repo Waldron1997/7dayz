@@ -90,7 +90,7 @@ Example messages:
     </message>
     <message>
         <repeat>30</repeat>
-        <text> Server Runtime is 5pm - 2am Mon Firday, 12pm - 2am Sat and Sun day - UK TIME </text>
+        <text> Server Runtime is 5pm - 2am Mon Friday, 12pm - 2am Sat and Sun day - UK TIME </text>
     </message>
 
 </messages>
