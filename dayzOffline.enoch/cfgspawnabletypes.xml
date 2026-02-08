@@ -1263,8 +1263,7 @@
 			<item name="DirtBikeHelmet_Visor" chance="1.00" />
 		</attachments>
 	</type>
-	</type>
-		<type name="Grenade_ChemGas">
+	<type name="Grenade_ChemGas">
 		<damage min="1.00" max="1.00" />
 	</type>
 		<type name="FlashGrenade">
@@ -2957,7 +2956,6 @@
 		</attachments>
 			<cargo chance="0.7"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="0.7"> <item name="Grenade_ChemGas" /> </cargo>			
-	</type>
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
 		<cargo preset="foodVillage" />
