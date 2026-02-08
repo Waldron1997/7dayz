@@ -654,7 +654,6 @@
         <zone name="InfectedSpooky" smin="0" smax="0" dmin="7" dmax="15" x="6113.42" z="4165.5" r="160"/>
         <zone name="InfectedSpooky" smin="0" smax="0" dmin="3" dmax="7" x="6193" z="9248" r="50"/>
         <zone name="InfectedSpooky" smin="0" smax="0" dmin="7" dmax="15" x="6204.39" z="4000.92" r="30"/>
-        <zone name="InfectedSpooky" smin="0" smax="0" dmin="3" dmax="7" x="6297.79" z="6845.7" r="50"/>
         <zone name="InfectedSpooky" smin="0" smax="0" dmin="7" dmax="15" x="6385.14" z="4444.07" r="80"/>
         <zone name="InfectedSpooky" smin="0" smax="0" dmin="7" dmax="15" x="6388" z="4785.5" r="70"/>
         <zone name="InfectedSpooky" smin="0" smax="0" dmin="3" dmax="7" x="6427.6" z="8155.22" r="70"/>
