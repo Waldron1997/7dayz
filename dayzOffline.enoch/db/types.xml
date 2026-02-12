@@ -4819,7 +4819,7 @@
         <category name="tools"/>
     </type>
     <type name="ChildBag_Blue">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>8</min>
@@ -4833,10 +4833,10 @@
         <value name="Tier2"/>
     </type>
     <type name="ChildBag_Green">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4847,7 +4847,7 @@
         <value name="Tier2"/>
     </type>
     <type name="ChildBag_Red">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>8</min>
