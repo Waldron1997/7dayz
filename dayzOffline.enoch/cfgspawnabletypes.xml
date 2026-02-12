@@ -251,7 +251,7 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ChildBag_Green">
-		<cargo preset="foodVillage" />
+		<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ChildBag_Red">
 		<cargo preset="foodVillage" />
@@ -1283,7 +1283,7 @@
 		<cargo chance="0.01">
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
-		<cargo chance="0.15"> <item name="Grenade_ChemGas" /> </cargo>
+		<cargo chance="0.25"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_White">
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
@@ -2901,12 +2901,10 @@
 	
 	<!--Prisoner-->
 	<type name="ZmbM_PrisonerSkinny">
-		<cargo chance="0.10">
-			<item name="Rope" chance="0.14" />
-		</cargo>
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsPrisoner" />
-		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
+		<attachments chance="1.00">
+			<item name="ChildBag_Green" chance="1.0" />
+			<item name="Grenade_ChemGas" chance="1.0" />
+		</attachments>
 	</type>
 	<!--Religious-->
 	<type name="ZmbM_priestPopSkinny">
