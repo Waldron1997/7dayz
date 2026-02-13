@@ -251,7 +251,7 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="ChildBag_Green">
-		<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
+	<cargo preset="foodVillage" />	
 	</type>
 	<type name="ChildBag_Red">
 		<cargo preset="foodVillage" />
@@ -1325,7 +1325,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.01"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="headtorches" />
@@ -1354,7 +1354,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.01"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="headtorches" />
@@ -1383,7 +1383,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.01"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="headtorches" />
@@ -1412,7 +1412,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="headtorches" />
@@ -1441,7 +1441,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="headtorches" />
@@ -1467,7 +1467,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="headtorches" />
@@ -1499,7 +1499,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		
@@ -1523,7 +1523,7 @@
 		<cargo chance="0.08"> <item name="Ammo_9x39AP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_Deagle_9rnd" /> </cargo>
 		<cargo chance="0.10"> <item name="Deagle" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
 		<cargo chance="0.01"> <item name="ShippingContainerKeys_Red" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
@@ -2803,7 +2803,7 @@
 		<cargo chance="0.05"> <item name="Mag_Glock_15Rnd" /> </cargo>
 		<cargo chance="0.05"> <item name="BandageDressing" /> </cargo>
 		<cargo chance="0.05"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2830,7 +2830,7 @@
 		<cargo chance="0.05"> <item name="Mag_Glock_15Rnd" /> </cargo>
 		<cargo chance="0.05"> <item name="BandageDressing" /> </cargo>
 		<cargo chance="0.05"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2865,7 +2865,7 @@
 		<cargo chance="0.05"> <item name="Mag_Glock_15Rnd" /> </cargo>
 		<cargo chance="0.05"> <item name="BandageDressing" /> </cargo>
 		<cargo chance="0.05"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbM_PolicemanSpecForce_Heavy">
@@ -2893,7 +2893,7 @@
 		<cargo chance="0.05"> <item name="Mag_Glock_15Rnd" /> </cargo>
 		<cargo chance="0.05"> <item name="BandageDressing" /> </cargo>
 		<cargo chance="0.05"> <item name="Mag_Deagle_9rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
@@ -2901,10 +2901,6 @@
 	
 	<!--Prisoner-->
 	<type name="ZmbM_PrisonerSkinny">
-		<attachments chance="1.00">
-			<item name="ChildBag_Green" chance="1.0" />
-			<item name="Grenade_ChemGas" chance="1.0" />
-		</attachments>
 	</type>
 	<!--Religious-->
 	<type name="ZmbM_priestPopSkinny">
