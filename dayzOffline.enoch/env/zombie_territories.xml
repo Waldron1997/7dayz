@@ -408,13 +408,13 @@
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="7950" z="11825" r="15"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="8415.63" z="11848.44" r="15"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="11018.75" z="11286.72" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="1450.7" z="7555" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="4076.09" z="8975.31" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="5308.91" z="9493.87" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="6452.27" z="10886.05" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="7955" z="11830" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="8420.63" z="11853.44" r="15"/>
-        <zone name="InfectedNBC" smin="0" smax="0" dmin="10" dmax="15" x="11023.75" z="11291.72" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="1450.7" z="7555" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="4076.09" z="8975.31" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="5308.91" z="9493.87" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="6452.27" z="10886.05" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="7955" z="11830" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="8420.63" z="11853.44" r="15"/>
+        <zone name="InfectedPolice" smin="0" smax="0" dmin="10" dmax="15" x="11023.75" z="11291.72" r="15"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="10" dmax="15" x="1455.7" z="7560" r="15"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="10" dmax="15" x="4081.09" z="8980.31" r="15"/>
         <zone name="InfectedMedic" smin="0" smax="0" dmin="10" dmax="15" x="5313.91" z="9498.87" r="15"/>
