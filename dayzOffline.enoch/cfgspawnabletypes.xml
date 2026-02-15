@@ -3120,7 +3120,7 @@
 		<attachments chance="1.00">
 			<item name="WitchHat" chance="1.0" />
 		</attachments>
-			<cargo chance="0.5"> <item name="Grenade_ChemGas" /> </cargo>			
+			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>			
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
 		<cargo preset="foodVillage" />
