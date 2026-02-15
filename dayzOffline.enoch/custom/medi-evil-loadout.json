@@ -162,6 +162,22 @@
           "quickBarSlot": -1
         }
       ]
+    },
+    {
+      "slotName": "Back",
+      "discreteItemSets": [
+        {
+          "itemType": "CourierBag",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1
+        }
+      ]
     }
   ],
   "discreteUnsortedItemSets": [
@@ -188,19 +204,7 @@
           "simpleChildrenUseDefaultAttributes": false
         },
         {
-          "itemType": "Apple",
-          "attributes": {
-            "healthMin": 1,
-            "healthMax": 1,
-            "quantityMin": 1,
-            "quantityMax": 1
-          },
-          "quickBarSlot": -1,
-          "simpleChildrenTypes": [],
-          "simpleChildrenUseDefaultAttributes": false
-        },
-        {
-          "itemType": "Apple",
+          "itemType": "BakedBeansCan_Opened",
           "attributes": {
             "healthMin": 1,
             "healthMax": 1,
@@ -208,6 +212,30 @@
             "quantityMax": 1
           },
           "quickBarSlot": 3,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false
+        },
+        {
+          "itemType": "BakedBeansCan_Opened",
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": 3,
+          "simpleChildrenTypes": [],
+          "simpleChildrenUseDefaultAttributes": false
+        },
+        {
+          "itemType": "SodaCan_Pipsi",
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
           "simpleChildrenTypes": [],
           "simpleChildrenUseDefaultAttributes": false
         },

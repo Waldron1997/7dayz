@@ -60,9 +60,10 @@
 								"custom/28dayzriver.json",
 								"custom/28dayzsurvivorbases.json",
 								"custom/QRCODES.json",
-								"custom/28dayzlater_new_locations.json"
+								"custom/28dayzlater_new_locations.json",
+								"custom/medi-evil_event.json"
 							],
-		"environmentMinTemps": [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
+		"environmentMinTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
 		"environmentMaxTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
