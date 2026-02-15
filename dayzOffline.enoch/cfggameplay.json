@@ -10,11 +10,11 @@
     "PlayerData":
 	{
     	"disablePersonalLight": true,
-      	"spawnGearPresetFiles": ["custom/28dayzfreshieloadout.json"],
+      	"spawnGearPresetFiles": ["custom/medi-evil-loadout.json"],
 		"StaminaData":
 		{
-			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
+			"sprintStaminaModifierErc": 0.5,
+			"sprintStaminaModifierCro": 0.5,
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
@@ -28,7 +28,7 @@
 		"ShockHandlingData":
 		{
 			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
+			"shockRefillSpeedUnconscious": 5,
 			"allowRefillSpeedModifier": true
 		},
 		"MovementData":
