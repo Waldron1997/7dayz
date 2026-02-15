@@ -3089,8 +3089,9 @@
 		<attachments chance="1.00">
 			<item name="EyeMask_Black" chance="1.0" />
 		</attachments>
-		<cargo chance="0.5"> <item name="FlashGrenade" /> </cargo>	
-		<cargo chance="0.5"> <item name="Grenade_ChemGas" /> </cargo>
+		<cargo chance="0.8"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="0.4"> <item name="FlashGrenade" /> </cargo>	
+		<cargo chance="0.2"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
 		<cargo chance="0.05"> <item name="BookTheCallOfTheWild" /> </cargo>
@@ -3105,11 +3106,7 @@
 		<cargo chance="0.30"> <item name="Ammo_762x54" /> </cargo>
 		<cargo chance="0.30"> <item name="Ammo_762x54Tracer" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
-		<attachments preset="headtorches" />
-		<attachments preset="hatsFarm" />
-		<attachments preset="bagsHunter" />
-		<attachments preset="vestsHunter" />
-	</type>
+		</type>
 	<!--Village-->
 	<type name="ZmbF_MilkMaidOld_Beige">
 		<cargo preset="foodVillage" />
