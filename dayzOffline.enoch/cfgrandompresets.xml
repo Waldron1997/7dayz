@@ -305,7 +305,6 @@
 			<item name="ConstructionHelmet_Red" chance="0.058" />
 			<item name="ConstructionHelmet_White" chance="0.058" />
 			<item name="ConstructionHelmet_Yellow" chance="0.058" />
-			<item name="WeldingMask" chance="0.058" />
 			<item name="RadarCap_Black" chance="0.058" />
 			<item name="RadarCap_Blue" chance="0.058" />
 			<item name="RadarCap_Brown" chance="0.058" />
@@ -322,8 +321,8 @@
 				<item name="Crowbar" chance="0.15" />
 				<item name="Sledgehammer" chance="0.15" />
 		</attachments>
-		<attachments chance="0.10" name="vestsIndustrial">
-			<item name="ReflexVest" chance="1.00" />
+		<attachments chance="0.01" name="vestsIndustrial">
+			<item name="ReflexVest" chance="0.01" />
 		</attachments>
 		
 		<!--FIREFIGHTER ATTACHMENTS-->
