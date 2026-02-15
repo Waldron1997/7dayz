@@ -2549,41 +2549,57 @@
 		<attachments preset="vestsIndustrial" />
 	</type>
 	<type name="ZmbM_ConstrWorkerNormal_Beige">
+		<attachments chance="1.00">
+			<item name="WeldingMask" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BaseRadio" chance="1.0" />
+		</attachments>
+			<cargo chance="0.5"> <item name="FlashGrenade" /> </cargo>	
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="glassesVillage" />
-		<attachments preset="hatsIndustrial" />
-		<attachments preset="vestsIndustrial" />
-	</type>
+		</type>
 	<type name="ZmbM_ConstrWorkerNormal_Black">
-	
+	<attachments chance="1.00">
+			<item name="WeldingMask" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BaseRadio" chance="1.0" />
+		</attachments>
+			<cargo chance="0.5"> <item name="FlashGrenade" /> </cargo>	
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
-		<cargo chance="0.07"> <item name="CigarettePack_Partyzanka" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="glassesVillage" />
-		<attachments preset="hatsIndustrial" />
-		<attachments preset="vestsIndustrial" />
-	</type>
+		</type>
 	<type name="ZmbM_ConstrWorkerNormal_Green">
+		<attachments chance="1.00">
+			<item name="WeldingMask" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BaseRadio" chance="1.0" />
+		</attachments>
+			<cargo chance="0.5"> <item name="FlashGrenade" /> </cargo>	
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
-		<cargo chance="0.07"> <item name="CigarettePack_Partyzanka" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="glassesVillage" />
-		<attachments preset="hatsIndustrial" />
-		<attachments preset="vestsIndustrial" />
-	</type>
+		</type>
 	<type name="ZmbM_ConstrWorkerNormal_Grey">
+		<attachments chance="1.00">
+			<item name="WeldingMask" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BaseRadio" chance="1.0" />
+		</attachments>
+			<cargo chance="0.5"> <item name="FlashGrenade" /> </cargo>	
 		<cargo preset="foodCity" />
-		<cargo chance="0.07"> <item name="CigarettePack_Partyzanka" /> </cargo>
-		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="toolsIndustrial" />
+		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="glassesVillage" />
-		<attachments preset="hatsIndustrial" />
-		<attachments preset="vestsIndustrial" />
-	</type>
+		</type>
 	<type name="ZmbM_HandymanNormal_Beige">
 		<cargo preset="foodCity" />
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
@@ -3064,6 +3080,17 @@
 		<attachments preset="vestsHunter" />
 	</type>
 	<type name="ZmbM_HunterOld_Winter">
+		<attachments chance="1.00">
+			<item name="GhillieBushrag_Winter" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Shemag_White" chance="1.0" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="EyeMask_Black" chance="1.0" />
+		</attachments>
+		<cargo chance="0.5"> <item name="FlashGrenade" /> </cargo>	
+		<cargo chance="0.5"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="foodHermit" />
 		<cargo preset="toolsHermit" />
 		<cargo chance="0.05"> <item name="BookTheCallOfTheWild" /> </cargo>
