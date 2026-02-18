@@ -1,0 +1,212 @@
+{
+    "Objects": [
+        {
+            "name": "CombinationLock4",
+            "pos": [
+                5530.94140625,
+                453.5753479003906,
+                1083.2745361328126
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_clock",
+            "pos": [
+                8962.8974609375,
+                344.71221923828127,
+                4427.67041015625
+            ],
+            "ypr": [
+                -2.163447380065918,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0000001192092896,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "NailBox",
+            "pos": [
+                5530.958984375,
+                453.5643310546875,
+                1083.2337646484376
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_VilVar2_4_END",
+            "pos": [
+                5550.62109375,
+                457.4644470214844,
+                1110.69384765625
+            ],
+            "ypr": [
+                129.4604034423828,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                5628.3330078125,
+                467.19000244140627,
+                1169.9580078125
+            ],
+            "ypr": [
+                54.47520065307617,
+                0.0,
+                108.20465087890625
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Wood1_5",
+            "pos": [
+                5543.86962890625,
+                457.40875244140627,
+                1119.6339111328126
+            ],
+            "ypr": [
+                40.89435577392578,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                5552.98486328125,
+                455.8244934082031,
+                1116.0299072265626
+            ],
+            "ypr": [
+                132.69253540039063,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.5,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cemetery_SmallCross2",
+            "pos": [
+                5530.9365234375,
+                454.41900634765627,
+                1083.041748046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Wood1_5",
+            "pos": [
+                5541.08251953125,
+                457.44158935546877,
+                1116.11669921875
+            ],
+            "ypr": [
+                40.894351959228519,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cemetery_SmallCross",
+            "pos": [
+                5553.38671875,
+                456.11492919921877,
+                1115.5977783203126
+            ],
+            "ypr": [
+                140.5780487060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_almara",
+            "pos": [
+                5545.89111328125,
+                456.1105651855469,
+                1116.57958984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bear_Pink",
+            "pos": [
+                5553.1650390625,
+                456.0144348144531,
+                1115.87060546875
+            ],
+            "ypr": [
+                114.7427749633789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_civil",
+            "pos": [
+                5549.73046875,
+                460.5360107421875,
+                1112.78271484375
+            ],
+            "ypr": [
+                -97.4715576171875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
