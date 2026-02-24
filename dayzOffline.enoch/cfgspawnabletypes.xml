@@ -1273,21 +1273,20 @@
 	<!--NBC-->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.03">
-			<item name="AntiChemInjector" chance="1.0" />
-		</cargo>
+		<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>
 		<cargo chance="0.15"> <item name="Grenade_ChemGas" /> </cargo>
+		<cargo chance="0.10"> <item name="CigarettePack_Chernamorka" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.01">
-			<item name="AntiChemInjector" chance="1.0" />
-		</cargo>
+		<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>
 		<cargo chance="0.25"> <item name="Grenade_ChemGas" /> </cargo>
+		<cargo chance="0.10"> <item name="CigarettePack_Chernamorka" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_White">
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
+			<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>
 	</type>
 	<type name="ZmbM_eastSoldier_normal_Navy">
 		<attachments chance="1.00">
@@ -1715,6 +1714,10 @@
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_ShortSkirt_beige">
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.0" />
+		</attachments>
+			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 				<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
@@ -1726,14 +1729,15 @@
 		<cargo chance="0.08"> <item name="Ammo_45ACP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_MKII_10Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
+		
 	</type>
 	<type name="ZmbF_ShortSkirt_black">
-		<cargo preset="foodCity" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.0" />
+		</attachments>
+			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo><cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-				<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
+		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_357" /> </cargo>
@@ -1742,12 +1746,12 @@
 		<cargo chance="0.08"> <item name="Ammo_45ACP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_MKII_10Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
 	</type>
 	<type name="ZmbF_ShortSkirt_brown">
-		<cargo preset="foodCity" />
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.0" />
+		</attachments>
+			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo><cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 				<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
@@ -1758,9 +1762,6 @@
 		<cargo chance="0.08"> <item name="Ammo_45ACP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_MKII_10Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
 	</type>
 	<type name="ZmbF_ShortSkirt_checks">
 		<cargo preset="foodCity" />
@@ -1859,6 +1860,10 @@
 		<attachments preset="bagsCity" />
 	</type>
 	<type name="ZmbF_ShortSkirt_yellow">
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.0" />
+		</attachments>
+			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 				<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
@@ -1870,9 +1875,6 @@
 		<cargo chance="0.08"> <item name="Ammo_45ACP" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_MKII_10Rnd" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
-		<attachments preset="glassesCity" />
-		<attachments preset="hatsCity" />
-		<attachments preset="bagsCity" />
 	</type>
 	<type name="ZmbF_SkaterYoung_Brown">
 		<cargo preset="foodCity" />
@@ -2748,7 +2750,7 @@
 	<type name="ZmbF_ParamedicNormal_Blue">
 		<cargo preset="toolsMedic" />
 		<cargo chance="0.05"> <item name="CigarettePack_Chernamorka" /> </cargo>
-		<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>
+		<cargo chance="0.07"> <item name="AntiChemInjector" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbF_ParamedicNormal_Green">
