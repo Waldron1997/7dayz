@@ -8649,6 +8649,7 @@
         <category name="tools"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <value name="Tier2"/>
     </type>
     <type name="HandDrillKit">
         <nominal>0</nominal>
@@ -13347,6 +13348,7 @@
         <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
+        <value name="Tier2"/>
     </type>
     <type name="MetalWire">
         <nominal>40</nominal>
@@ -23279,7 +23281,7 @@
         <usage name="Farm"/>
         <usage name="Village"/>
     </type>
-    <type name="m14">
+    <type name="M14">
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
