@@ -1298,6 +1298,7 @@
 				<attachments chance="1.00">
 			<item name="BaseRadio" chance="1.0" />
 		</attachments>
+			<cargo chance="1.0"> <item name="BookHeartOfDarkness" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
