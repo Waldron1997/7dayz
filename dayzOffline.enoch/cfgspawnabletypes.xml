@@ -1297,8 +1297,7 @@
 		</attachments>
 				<attachments chance="1.00">
 			<item name="BaseRadio" chance="1.0" />
-		</attachments>
-			<cargo chance="1.0"> <item name="BookHeartOfDarkness" /> </cargo>
+		</attachments>			
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
@@ -1854,9 +1853,6 @@
 	<type name="ZmbF_ShortSkirt_yellow">
 		<attachments chance="1.00">
 			<item name="WitchHat" chance="1.0" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CrookedNose" chance="1.0" />
 		</attachments>
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="foodCity" />
@@ -3113,10 +3109,7 @@
 	<type name="ZmbF_MilkMaidOld_Black">
 		<attachments chance="1.00">
 			<item name="WitchHat" chance="1.0" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="CrookedNose" chance="1.0" />
-		</attachments>
+		</attachments>		
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>			
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
