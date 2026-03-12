@@ -2,7 +2,7 @@
 <playerspawnpoints>
     <fresh>
         <spawn_params>
-            <min_dist_infected>30</min_dist_infected>
+            <min_dist_infected>50</min_dist_infected>
             <max_dist_infected>70</max_dist_infected>
             <min_dist_player>1000</min_dist_player>
             <max_dist_player>5000</max_dist_player>
@@ -10,9 +10,9 @@
             <max_dist_static>2</max_dist_static>
         </spawn_params>
         <generator_params>
-            <grid_density>4</grid_density>
-            <grid_width>200</grid_width>
-            <grid_height>200</grid_height>
+            <grid_density>2</grid_density>
+            <grid_width>10</grid_width>
+            <grid_height>10</grid_height>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -34,8 +34,6 @@
               <pos x="3950" z="12766.69" />
               <pos x="5875" z="12755.36" />
               <pos x="7359.38" z="12763.63" />
-              <pos x="8476.56" z="12751.12" />
-              <pos x="8784.38" z="12604.2" />
               <pos x="10223.44" z="12744.87" />
               <pos x="12701.56" z="12388.64" />
 
@@ -48,8 +46,6 @@
               <pos x="3950" z="12766.69" />
               <pos x="5875" z="12755.36" />
               <pos x="7359.38" z="12763.63" />
-              <pos x="8476.56" z="12751.12" />
-              <pos x="8784.38" z="12604.2" />
               <pos x="10223.44" z="12744.87" />
               <pos x="12701.56" z="12388.64" />
 
