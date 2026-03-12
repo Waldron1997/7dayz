@@ -279,7 +279,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -302,7 +302,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -347,7 +347,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -428,7 +428,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -446,7 +446,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -488,7 +488,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -517,7 +517,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -534,7 +534,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -549,7 +549,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -569,14 +569,15 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="100" min="90" type="ZmbM_PolicemanSpecForce_Heavy"/>
-            <child lootmax="5" lootmin="0" max="10" min="0" type="ZmbM_PrisonerSkinny"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_PoliceWomanNormal"/>
+            <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_PolicemanFat"/>
+            <child lootmax="5" lootmin="0" max="40" min="0" type="ZmbM_PolicemanSpecForce_Heavy"/>
         </children>
     </event>
     <event name="InfectedPrisoner">
@@ -587,7 +588,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -607,7 +608,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -625,7 +626,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -642,7 +643,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -677,7 +678,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -697,7 +698,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>100</cleanupradius>
+        <cleanupradius>300</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
@@ -1134,7 +1135,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="Truck_01_Covered"/>
         </children>

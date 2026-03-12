@@ -1297,8 +1297,7 @@
 		</attachments>
 				<attachments chance="1.00">
 			<item name="BaseRadio" chance="1.0" />
-		</attachments>
-			<cargo chance="1.0"> <item name="BookHeartOfDarkness" /> </cargo>
+		</attachments>			
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
@@ -1715,10 +1714,6 @@
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_ShortSkirt_beige">
-		<attachments chance="1.00">
-			<item name="WitchHat" chance="1.0" />
-		</attachments>
-			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 				<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
@@ -1733,10 +1728,8 @@
 		
 	</type>
 	<type name="ZmbF_ShortSkirt_black">
-		<attachments chance="1.00">
-			<item name="WitchHat" chance="1.0" />
-		</attachments>
-			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo><cargo preset="foodCity" />
+		<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
+		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
@@ -1749,10 +1742,7 @@
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbF_ShortSkirt_brown">
-		<attachments chance="1.00">
-			<item name="WitchHat" chance="1.0" />
-		</attachments>
-			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo><cargo preset="foodCity" />
+		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 				<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
@@ -3119,7 +3109,7 @@
 	<type name="ZmbF_MilkMaidOld_Black">
 		<attachments chance="1.00">
 			<item name="WitchHat" chance="1.0" />
-		</attachments>
+		</attachments>		
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>			
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
