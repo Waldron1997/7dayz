@@ -11,8 +11,8 @@
         </spawn_params>
         <generator_params>
             <grid_density>2</grid_density>
-            <grid_width>10</grid_width>
-            <grid_height>10</grid_height>
+            <grid_width>2</grid_width>
+            <grid_height>2</grid_height>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -28,27 +28,27 @@
       <!-- Spawn points for map: livonia -->
               <group name="Bielawa">
               <pos x="3954.3" z="12774.32"  />
-<pos x="70.31" z="8839.78"  />
-<pos x="12696.88" z="12395.1"  />
-<pos x="114.326" z="10026.242"  />
-<pos x="414.867" z="9783.229"  />
-<pos x="312.169" z="11307.765"  />
-<pos x="2285.288" z="123.5.035"  />
-<pos x="5920.914" z="12635.742"  />
-<pos x="11305.545" z="12536.204"  />
+                <pos x="70.31" z="8839.78"  />
+                <pos x="12696.88" z="12395.1"  />
+                <pos x="114.326" z="10026.242"  />
+                <pos x="414.867" z="9783.229"  />
+                <pos x="312.169" z="11307.765"  />
+                <pos x="2285.288" z="123.5.035"  />
+                <pos x="5920.914" z="12635.742"  />
+                <pos x="11305.545" z="12536.204"  />
 
 
               </group>
               <group name="Lukow">
               <pos x="3954.3" z="12774.32"  />
-<pos x="70.31" z="8839.78"  />
-<pos x="12696.88" z="12395.1"  />
-<pos x="114.326" z="10026.242"  />
-<pos x="414.867" z="9783.229"  />
-<pos x="312.169" z="11307.765"  />
-<pos x="2285.288" z="123.5.035"  />
-<pos x="5920.914" z="12635.742"  />
-<pos x="11305.545" z="12536.204"  />
+                <pos x="70.31" z="8839.78"  />
+                <pos x="12696.88" z="12395.1"  />
+                <pos x="114.326" z="10026.242"  />
+                <pos x="414.867" z="9783.229"  />
+                <pos x="312.169" z="11307.765"  />
+                <pos x="2285.288" z="123.5.035"  />
+                <pos x="5920.914" z="12635.742"  />
+                <pos x="11305.545" z="12536.204"  />
 
 
               </group>
