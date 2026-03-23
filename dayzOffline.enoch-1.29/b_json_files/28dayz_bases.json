@@ -1,0 +1,580 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                8934.265625,
+                340.328369140625,
+                5408.69384765625
+            ],
+            "ypr": [
+                5.400000095367432,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                3454.611328125,
+                352.1624450683594,
+                5703.09130859375
+            ],
+            "ypr": [
+                -8.999999046325684,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                8934.1826171875,
+                340.328369140625,
+                5407.83984375
+            ],
+            "ypr": [
+                5.400000095367432,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                8934.1005859375,
+                339.9779357910156,
+                5406.91259765625
+            ],
+            "ypr": [
+                5.400000095367432,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Ramp",
+            "pos": [
+                8972.951171875,
+                261.35528564453127,
+                10084.48046875
+            ],
+            "ypr": [
+                161.37635803222657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                8934.2548828125,
+                340.6788024902344,
+                5408.67822265625
+            ],
+            "ypr": [
+                5.400000095367432,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                3471.209716796875,
+                337.5409240722656,
+                5687.4423828125
+            ],
+            "ypr": [
+                161.9999542236328,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.8999999165534973,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Barn_Wood1",
+            "pos": [
+                9875.603515625,
+                215.7808074951172,
+                9197.994140625
+            ],
+            "ypr": [
+                -32.40000534057617,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1_nolc",
+            "pos": [
+                3478.813232421875,
+                338.165771484375,
+                5690.916015625
+            ],
+            "ypr": [
+                161.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bergfrit2",
+            "pos": [
+                8933.6552734375,
+                322.5906982421875,
+                5403.3564453125
+            ],
+            "ypr": [
+                -174.59994506835938,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Gate",
+            "pos": [
+                8934.076171875,
+                321.05780029296877,
+                5419.6240234375
+            ],
+            "ypr": [
+                -86.9999771118164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Mil_Airfield_HQ",
+            "pos": [
+                7999.21923828125,
+                256.827880859375,
+                8668.693359375
+            ],
+            "ypr": [
+                -119.11820220947266,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                8003.6982421875,
+                252.17404174804688,
+                8682.8466796875
+            ],
+            "ypr": [
+                149.39996337890626,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                8929.97265625,
+                321.830078125,
+                5418.87890625
+            ],
+            "ypr": [
+                -86.39998626708985,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Bags_Curve",
+            "pos": [
+                7987.3798828125,
+                253.2146759033203,
+                8674.07421875
+            ],
+            "ypr": [
+                -28.799989700317384,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20_nolc",
+            "pos": [
+                8950.50390625,
+                321.22906494140627,
+                5427.34375
+            ],
+            "ypr": [
+                1.7999987602233887,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlock",
+            "pos": [
+                7981.7158203125,
+                253.16506958007813,
+                8673.474609375
+            ],
+            "ypr": [
+                0.0,
+                -1.3749182224273682,
+                3.1130309104919435
+            ],
+            "scale": 0.9994124174118042,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20_Turn",
+            "pos": [
+                8968.87890625,
+                321.474609375,
+                5422.439453125
+            ],
+            "ypr": [
+                35.999977111816409,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall2_End2",
+            "pos": [
+                8977.44921875,
+                321.8643493652344,
+                5408.54638671875
+            ],
+            "ypr": [
+                88.19998168945313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_CncBlock",
+            "pos": [
+                7981.802734375,
+                252.9931182861328,
+                8680.2646484375
+            ],
+            "ypr": [
+                0.0,
+                -1.3749181032180787,
+                3.113030433654785
+            ],
+            "scale": 0.9994122982025147,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall2_30_nolc",
+            "pos": [
+                8948.8623046875,
+                326.0463562011719,
+                5396.02685546875
+            ],
+            "ypr": [
+                -176.39993286132813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Roadblock_Pillbox",
+            "pos": [
+                7990.1533203125,
+                253.22811889648438,
+                8679.1865234375
+            ],
+            "ypr": [
+                -108.00000762939453,
+                2.9617972373962404,
+                -0.9618281722068787
+            ],
+            "scale": 0.9995077848434448,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                8933.3154296875,
+                332.1578369140625,
+                5421.17626953125
+            ],
+            "ypr": [
+                92.42166900634766,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.1999998092651368,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Barn_Brick1",
+            "pos": [
+                8989.8994140625,
+                269.8595275878906,
+                10090.4990234375
+            ],
+            "ypr": [
+                -19.327388763427736,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                8934.2626953125,
+                339.9779357910156,
+                5408.703125
+            ],
+            "ypr": [
+                5.400000095367432,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Ramp",
+            "pos": [
+                9006.7724609375,
+                261.2958068847656,
+                10096.1640625
+            ],
+            "ypr": [
+                -19.799997329711915,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                8934.1806640625,
+                339.9779357910156,
+                5407.81201171875
+            ],
+            "ypr": [
+                5.400000095367432,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_CementWorks_Hall1",
+            "pos": [
+                8623.57421875,
+                308.1803283691406,
+                7461.359375
+            ],
+            "ypr": [
+                125.73989868164063,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bergfrit2",
+            "pos": [
+                3454.749267578125,
+                334.4256286621094,
+                5708.77734375
+            ],
+            "ypr": [
+                169.6079864501953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999826550483704,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Gate",
+            "pos": [
+                3456.40771484375,
+                335.783203125,
+                5691.9951171875
+            ],
+            "ypr": [
+                -98.62113189697266,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                3451.97119140625,
+                336.4270935058594,
+                5692.0615234375
+            ],
+            "ypr": [
+                -99.94730377197266,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999831318855286,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                3464.7724609375,
+                333.8509216308594,
+                5724.7080078125
+            ],
+            "ypr": [
+                -5.400003910064697,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999833106994629,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner2_nolc",
+            "pos": [
+                3476.414794921875,
+                333.70391845703127,
+                5717.32177734375
+            ],
+            "ypr": [
+                72.00001525878906,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                3457.32080078125,
+                345.68572998046877,
+                5693.12744140625
+            ],
+            "ypr": [
+                -98.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                3454.611572265625,
+                351.81201171875,
+                5703.1142578125
+            ],
+            "ypr": [
+                -8.999999046325684,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_ammoboxes_single",
+            "pos": [
+                3454.47265625,
+                351.81201171875,
+                5704.00537109375
+            ],
+            "ypr": [
+                -8.999999046325684,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
