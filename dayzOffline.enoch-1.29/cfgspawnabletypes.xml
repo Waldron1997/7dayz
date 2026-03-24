@@ -2845,11 +2845,16 @@
 	</type>
 	<type name="ZmbM_PolicemanSpecForce">
     	<attachments chance="1.00">
-			<item name="BallisticHelmet_UN" chance="1.00" />
+			<item name="BaseRadio" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PressVest_LightBlue" chance="1.00" />
+			<item name="Shemag_Red" chance="1.0" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Chestplate" chance="1.0" />
+		</attachments>
+		<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
+		<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
     	<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
