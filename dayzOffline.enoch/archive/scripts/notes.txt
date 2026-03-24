@@ -1,0 +1,162 @@
+BallisticHelmet_Navy - ignore
+BallisticHelmet_Winter
+
+BeanieHat_Beige - T1
+BeanieHat_Black
+BeanieHat_Blue
+BeanieHat_Brown
+BeanieHat_Green
+BeanieHat_Grey
+BeanieHat_Pink
+BeanieHat_Red
+
+BomberJacket_Blue - T2
+BomberJacket_Grey
+BomberJacket_Maroon
+BomberJacket_SkyBlue
+
+BoonieHat_Winter - ignore
+
+BushlatPoliceJacket_Blue - T2
+
+ChernarusSportShirt
+ChristmasHeadband_Antlers
+ChristmasHeadband_Gingerbread
+ChristmasHeadband_Trees
+CourierBag
+
+DownJacket_Blue - T2
+DownJacket_Green
+DownJacket_Orange
+DownJacket_Red
+
+EyeMask_Christmas
+EyeMask_Dead
+EyeMask_NewYears
+EyeMask_Valentines
+EyePatch_Improvised
+FaceCover_Improvised
+FeetCover_Improvised
+GasMask_Filter_Improvised
+GhillieAtt_Mossy
+GhillieAtt_Tan
+GhillieBushrag_Mossy
+GhillieBushrag_Tan
+GhillieBushrag_Winter
+GhillieHood_Mossy
+GhillieHood_Tan
+GhillieHood_Winter
+GhillieSuit_Mossy
+GhillieSuit_Tan
+GhillieSuit_Winter
+GhillieTop_Mossy
+GhillieTop_Tan
+GhillieTop_Winter
+
+GorkaEJacket_Winter - T3
+GorkaHelmetVisor 
+GorkaPants_Winter 
+
+HandsCover_Improvised
+HeadCover_Improvised
+Headdress_Wolf
+ImprovisedBag
+LactariusMushroom
+
+LeatherBelt_Beige - Not sure?
+LeatherBelt_Black
+LeatherBelt_Brown
+LeatherBelt_Natural
+LeatherHat_Beige
+LeatherHat_Black
+LeatherHat_Brown
+LeatherHat_Natural
+
+LegsCover_Improvised
+
+MorozkoHat - Xmas ignore
+
+NBCBootsWhite - T3
+NBCHoodWhite
+NBCJacketWhite
+NBCPantsWhite
+NavyUniformJacket
+NavyUniformPants
+OKZKCap_Beige
+OKZKCap_Green
+
+OfficerHat
+PaydayMask_Chains - Anywhere but low chance? 
+PaydayMask_Dallas
+PaydayMask_Hoxton
+PaydayMask_Wolf
+
+PetushokHat_Black - T1?
+PetushokHat_Green
+PetushokHat_Yellow
+
+PlateCarrierVest 
+PleurotusMushroom
+PumpkinHelmet
+PumpkinSeeds
+
+QuiltedJacket_Black - T2
+QuiltedJacket_Blue
+QuiltedJacket_Green
+QuiltedJacket_Grey
+QuiltedJacket_Orange
+QuiltedJacket_Red
+QuiltedJacket_Violet
+QuiltedJacket_Yellow
+
+Rag
+ReflexVest Not sure what this is?
+RopeBelt
+SantasBeard
+SantasHat
+
+SherpaHat_Black - T2
+SherpaHat_Blue
+SherpaHat_Red
+SkiGloves_90s
+SkiGloves_Blue
+SkiGloves_Red
+SkiGoggles_BlackYellow
+SkiGoggles_WhiteClear
+SkiGoggles_WhiteDark
+
+SnowstormUshanka_Brown - T3
+SnowstormUshanka_Navy
+SnowstormUshanka_Olive
+SnowstormUshanka_White
+
+Splint
+Splint_Applied
+Sweater_ChristmasBlue
+Sweater_ChristmasGreen
+Sweater_ChristmasRed
+TannedLeather
+TelnyashkaShirt
+TorsoCover_Improvised
+Tshirt_10thAnniversary
+
+Ushanka_Blue - T3
+Ushanka_Green
+WinterCoif_Black
+WinterCoif_Blue
+WinterCoif_Green
+WinterCoif_Skull
+WitchHoodCoif_Black
+WitchHoodCoif_Brown
+WitchHoodCoif_Red
+
+WoolCoat_Beige - not added
+WoolCoat_Black
+WoolCoat_BlackCheck
+WoolCoat_Blue
+WoolCoat_BlueCheck
+WoolCoat_BrownCheck
+WoolCoat_Green
+WoolCoat_GreyCheck
+WoolCoat_Red
+WoolCoat_RedCheck
