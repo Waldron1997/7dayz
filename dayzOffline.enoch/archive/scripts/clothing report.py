@@ -1,16 +1,11 @@
 import xml.etree.ElementTree as ET
 from collections import defaultdict
-import re
 
 file = r"C:\Users\user\Documents\Github\7dayz\dayzOffline.enoch-1.29\db\types.xml"
 
 tree = ET.parse(file)
 root = tree.getroot()
 
-def base_name(name):
-    return re.sub(r'_[A-Z][a-z]+\d*$', '', name)
-
-# Structure: tier -> usage -> base_name -> total nominal
 data = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))
 tier_totals = defaultdict(int)
 tier_usage_totals = defaultdict(lambda: defaultdict(int))
@@ -27,7 +22,7 @@ for t in root.findall("type"):
 
     tiers = [v.attrib.get("name", "Unknown") for v in t.findall("value")]
     usages = [u.attrib.get("name", "Unknown") for u in t.findall("usage")]
-    name = base_name(t.attrib.get("name", "Unknown"))
+    name = t.attrib.get("name", "Unknown")
 
     if not tiers:
         tiers = ["Unknown"]
