@@ -53,9 +53,6 @@
 		<!--pos x="5397.504883" z="6689.651367" a="176.442398" /trader-->
 		<!--pos x="6995.759766" z="6220.584473" a="4.310974" /trader-->
 		<!---pos x="6220.04834" z="6929.438477" a="297.638458" /trader-->
-
-
-
 	</event>
     <event name="StaticPoliceCar">
 		<zone smin="1" smax="3" dmin="13" dmax="18" r="45" />
