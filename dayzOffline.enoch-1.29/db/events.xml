@@ -159,8 +159,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus"/>
-            <child lootmax="0" lootmin="0" max="7" min="3" type="Animal_CervusElaphusF"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_RangiferTarandus"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Animal_RangiferTarandusF"/>
         </children>
     </event>
     <event name="AnimalGoat">
