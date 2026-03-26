@@ -560,7 +560,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
+        <active>1</active>
         <children/>
     </event>
     <event name="InfectedPolice">
@@ -838,6 +838,7 @@
         <saferadius>0</saferadius>
         <distanceradius>120</distanceradius>
         <cleanupradius>0</cleanupradius>
+        <secondary>InfectedNBCYellow</secondary>
         <flags deletable="1" init_random="1" remove_damaged="0"/>
         <position>fixed</position>
         <limit>parent</limit>
