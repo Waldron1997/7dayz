@@ -29,7 +29,7 @@
 	</event>
 
 	<event name="StaticHeliCrash">
-		<zone smin="1" smax="3" dmin="50" dmax="55" r="45" />
+		<zone smin="1" smax="3" dmin="60" dmax="75" r="45" />
 		<pos x="3826.167236" z="725.191772" a="72.453087" />
 		<pos x="9916.824219" z="3880.88208" a="32.136044" />
 		<pos x="6507.537598" z="3160.664062" a="241.351349" />
@@ -267,7 +267,7 @@
 		<pos x="9455.645508" z="10793.627930" />
 	</event>
     <event name="StaticContaminatedArea">
-		<zone smin="0" smax="0" dmin="5" dmax="8" r="80" />
+		<zone smin="0" smax="0" dmin="50" dmax="50" r="80" />
 		<pos x="8557" z="9714" />
 		<pos x="4439" z="6715" />
 		<pos x="7898" z="9809" />
