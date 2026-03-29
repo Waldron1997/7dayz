@@ -159,8 +159,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_RangiferTarandus"/>
-            <child lootmax="0" lootmin="0" max="3" min="2" type="Animal_RangiferTarandusF"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CervusElaphus"/>
+            <child lootmax="0" lootmin="0" max="7" min="3" type="Animal_CervusElaphusF"/>
         </children>
     </event>
     <event name="AnimalReindeer">
@@ -560,8 +560,11 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
-        <children/>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="4" lootmin="0" max="0" min="10" type="ZmbM_NBC_White"/> 
+        </children>
     </event>
     <event name="InfectedPolice">
         <nominal>50</nominal>
@@ -708,10 +711,10 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="4" lootmin="0" max="5" min="2" type="Zmbm_Mummy"/>
-            <child lootmax="4" lootmin="0" max="5" min="2" type="ZmbM_NBC_White"/>   
-            <child lootmax="4" lootmin="0" max="5" min="2" type="ZmbF_MilkMaidOld_Black"/>   
-            <child lootmax="4" lootmin="0" max="5" min="2" type="ZmbM_eastSoldier_normal_Navy"/>  
+            <child lootmax="4" lootmin="0" max="25" min="10" type="Zmbm_Mummy"/>
+            <child lootmax="4" lootmin="0" max="25" min="10" type="ZmbM_NBC_White"/>   
+            <child lootmax="4" lootmin="0" max="25" min="10" type="ZmbF_MilkMaidOld_Black"/>   
+            <child lootmax="4" lootmin="0" max="25" min="10" type="ZmbM_eastSoldier_normal_Navy"/>  
         </children>
     </event>
     <event name="InfectedVillage">
@@ -838,6 +841,7 @@
         <saferadius>0</saferadius>
         <distanceradius>120</distanceradius>
         <cleanupradius>0</cleanupradius>
+        <secondary>InfectedNBCYellow</secondary>
         <flags deletable="1" init_random="1" remove_damaged="0"/>
         <position>fixed</position>
         <limit>parent</limit>
@@ -1054,9 +1058,9 @@
         </children>
     </event>
     <event name="VehicleCivilianSedan">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+      <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1065,7 +1069,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black"/>
@@ -1073,9 +1077,9 @@
         </children>
     </event>
     <event name="VehicleHatchback02">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1084,7 +1088,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
@@ -1092,9 +1096,9 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <min>2</min>
-        <max>3</max>
+        <max>2</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1103,15 +1107,15 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="3" type="Offroad_02"/>
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+       <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1120,7 +1124,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
@@ -1128,9 +1132,9 @@
         </children>
     </event>
     <event name="VehicleSedan02">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1139,7 +1143,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey"/>

@@ -1,0 +1,836 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6255.9423828125,
+                271.30401611328127,
+                6821.8662109375
+            ],
+            "ypr": [
+                19.7925968170166,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_PP19_64Rnd",
+            "pos": [
+                6258.8740234375,
+                273.1816711425781,
+                6825.677734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_MKII_10Rnd",
+            "pos": [
+                6255.8447265625,
+                273.08935546875,
+                6827.19384765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6259.20849609375,
+                272.22601318359377,
+                6826.09912109375
+            ],
+            "ypr": [
+                19.792598724365236,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PP19",
+            "pos": [
+                6258.90966796875,
+                273.0518798828125,
+                6826.017578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "KitchenKnife",
+            "pos": [
+                6257.4912109375,
+                272.19146728515627,
+                6821.291015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PP19",
+            "pos": [
+                6258.97265625,
+                273.0518798828125,
+                6826.16259765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AntiChemInjector",
+            "pos": [
+                6255.11474609375,
+                272.2348327636719,
+                6822.021484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "KitchenKnife",
+            "pos": [
+                6257.4013671875,
+                272.1789245605469,
+                6821.08056640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Hook",
+            "pos": [
+                6254.48046875,
+                272.23193359375,
+                6822.58544921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Headtorch_Grey",
+            "pos": [
+                6258.4111328125,
+                273.0518798828125,
+                6826.037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_PP19_64Rnd",
+            "pos": [
+                6258.8779296875,
+                273.1856384277344,
+                6825.80859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BakedBeansCan",
+            "pos": [
+                6257.31005859375,
+                272.09375,
+                6821.271484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Headtorch_Grey",
+            "pos": [
+                6258.453125,
+                273.0518798828125,
+                6826.248046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "OrienteeringCompass",
+            "pos": [
+                6257.05859375,
+                272.09375,
+                6821.326171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BakedBeansCan",
+            "pos": [
+                6257.3076171875,
+                272.09375,
+                6821.17041015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LeatherSewingKit",
+            "pos": [
+                6258.044921875,
+                273.0998229980469,
+                6826.18017578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ChernarusMap",
+            "pos": [
+                6256.9375,
+                272.1830139160156,
+                6821.1240234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BakedBeansCan",
+            "pos": [
+                6257.24462890625,
+                272.09375,
+                6821.19921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SewingKit",
+            "pos": [
+                6258.1044921875,
+                273.0998229980469,
+                6826.365234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_MKII_10Rnd",
+            "pos": [
+                6255.859375,
+                273.0747375488281,
+                6827.23974609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_MKII_10Rnd",
+            "pos": [
+                6255.77587890625,
+                273.06640625,
+                6827.15625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BakedBeansCan",
+            "pos": [
+                6257.2109375,
+                272.09375,
+                6821.1201171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ImprovisedFishingRod",
+            "pos": [
+                6254.3984375,
+                272.3473815917969,
+                6822.28662109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                6255.66259765625,
+                272.1944580078125,
+                6821.619140625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                6255.7421875,
+                272.1788024902344,
+                6821.76025390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Mag_MKII_10Rnd",
+            "pos": [
+                6255.7958984375,
+                273.0611267089844,
+                6827.20751953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                6255.75927734375,
+                272.181884765625,
+                6821.7197265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SeaChest",
+            "pos": [
+                6253.42431640625,
+                272.1298828125,
+                6822.8203125
+            ],
+            "ypr": [
+                -64.85405731201172,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GPSReceiver",
+            "pos": [
+                6256.9755859375,
+                272.1402587890625,
+                6821.1884765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                6255.61083984375,
+                272.1593322753906,
+                6821.67333984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Shovel",
+            "pos": [
+                6253.6806640625,
+                272.0243225097656,
+                6823.19775390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ElectronicRepairKit",
+            "pos": [
+                6260.5947265625,
+                273.2502746582031,
+                6825.29541015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CamoNet",
+            "pos": [
+                6254.779296875,
+                273.00177001953127,
+                6828.12353515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AntiChemInjector",
+            "pos": [
+                6255.0966796875,
+                272.2190856933594,
+                6821.81640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Binoculars",
+            "pos": [
+                6256.68505859375,
+                272.2084045410156,
+                6821.5283203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "FishingRod",
+            "pos": [
+                6260.13720703125,
+                273.29180908203127,
+                6825.15771484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GardenLime",
+            "pos": [
+                6257.826171875,
+                273.1122131347656,
+                6826.59033203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pot",
+            "pos": [
+                6260.19775390625,
+                273.0518798828125,
+                6825.31005859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PetrolLighter",
+            "pos": [
+                6255.35400390625,
+                272.1911926269531,
+                6821.79931640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "FieldShovel",
+            "pos": [
+                6260.185546875,
+                273.15289306640627,
+                6825.54443359375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PetrolLighter",
+            "pos": [
+                6255.39990234375,
+                272.19732666015627,
+                6821.9658203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CannabisSeeds",
+            "pos": [
+                6257.7099609375,
+                273.091796875,
+                6826.29541015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "HikingBootsLow_Grey",
+            "pos": [
+                6256.35693359375,
+                272.1298828125,
+                6821.8544921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "HikingBoots_Brown",
+            "pos": [
+                6256.64013671875,
+                273.0252990722656,
+                6826.74951171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "HikingBootsLow_Grey",
+            "pos": [
+                6256.2548828125,
+                272.1298828125,
+                6821.44384765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6255.603515625,
+                272.1759033203125,
+                6827.72412109375
+            ],
+            "ypr": [
+                19.792598724365236,
+                0.0,
+                -0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LargeTent",
+            "pos": [
+                6254.85107421875,
+                273.00177001953127,
+                6827.6591796875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "HikingBoots_Brown",
+            "pos": [
+                6256.83984375,
+                273.00177001953127,
+                6827.20654296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MountainBag_Green",
+            "pos": [
+                6259.6259765625,
+                273.2579345703125,
+                6825.60791015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MKII",
+            "pos": [
+                6256.17333984375,
+                273.0771179199219,
+                6827.0927734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MKII",
+            "pos": [
+                6256.2119140625,
+                273.0648498535156,
+                6827.228515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
