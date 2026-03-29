@@ -4455,10 +4455,10 @@
         <usage name="Village"/>
     </type>
     <type name="CarBattery">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>360</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -4468,10 +4468,10 @@
         <value name="Tier3"/>
     </type>
     <type name="CarRadiator">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8462,10 +8462,10 @@
         <usage name="Police"/>
     </type>
     <type name="GlowPlug">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16041,16 +16041,17 @@
         <value name="Tier1"/>
     </type>
     <type name="PowerGenerator">
-        <nominal>80</nominal>
+        <nominal>10</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>5</min>
         <quantmin>20</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Industrial"/>
+        <value name="Tier2"/>
     </type>
     <type name="PressVest_Blue">
         <nominal>10</nominal>
@@ -18781,10 +18782,10 @@
         <category name="food"/>
     </type>
     <type name="SparkPlug">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
