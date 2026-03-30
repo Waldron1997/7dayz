@@ -140,19 +140,19 @@
 		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Blue">
-		<damage min="0.75" max="0.75" />
+		<damage min="0.90" max="0.90" />
 	</type>
 	<type name="ShippingContainerKeys_Yellow">
-		<damage min="0.75" max="0.75" />
+		<damage min="0.90" max="0.90" />
 	</type>
 	<type name="ShippingContainerKeys_Red">
-		<damage min="0.75" max="0.75" />
+		<damage min="0.90" max="0.90" />
 	</type>
 	<type name="ShippingContainerKeys_Orange">
-		<damage min="0.75" max="0.75" />
+		<damage min="0.90" max="0.90" />
 	</type>
 	<type name="PunchedCard">
-		<damage min="0.75" max="0.75" />
+		<damage min="0.90" max="0.90" />
 	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
@@ -1451,6 +1451,7 @@
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
 		<cargo preset="foodArmy" />
+		<cargo chance="0.05"> <item name="PunchedCard" /> </cargo>
 		<cargo chance="0.10"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308Win" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308WinTracer" /> </cargo>
@@ -1479,8 +1480,7 @@
 			<item name="MedicalScrubsHat_Green" chance="1.0" />
 		</attachments>
 		<cargo preset="foodArmy" />
-		<cargo chance="0.50"> <item name="PunchedCard" /> </cargo>
-		<cargo chance="0.50"> <item name="ShippingContainerKeys_Red" /> </cargo>
+		<cargo chance="0.40"> <item name="ShippingContainerKeys_Yellow" /> </cargo>
 		<cargo chance="0.10"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308Win" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
@@ -1525,7 +1525,7 @@
 		<cargo chance="0.10"> <item name="Deagle" /> </cargo>
 		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
-		<cargo chance="0.01"> <item name="ShippingContainerKeys_Red" /> </cargo>
+		<cargo chance="0.05"> <item name="ShippingContainerKeys_Red" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
@@ -2862,7 +2862,6 @@
 			<item name="Mag_SSG82_5rnd" chance="0.50" />
 			<item name="Mag_Scout_5Rnd" chance="0.50" />			
 		</cargo>
-		<cargo chance="0.02"> <item name="ShippingContainerKeys_Blue" /> </cargo>
 		<cargo chance="0.07"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.07"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.07"> <item name="Ammo_12gaSlug" /> </cargo>
