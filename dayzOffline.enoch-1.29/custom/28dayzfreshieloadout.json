@@ -123,16 +123,6 @@
                         "quantityMax": 1.0
                     },
                     "quickBarSlot": -1
-                },
-                {
-                    "itemType": "Bark_Oak",
-                    "attributes": {
-                        "healthMin": 1.0,
-                        "healthMax": 1.0,
-                        "quantityMin": 1.0,
-                        "quantityMax": 1.0
-                    },
-                    "quickBarSlot": -1
                 }
             ]
         }
