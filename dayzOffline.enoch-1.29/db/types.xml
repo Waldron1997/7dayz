@@ -2935,7 +2935,7 @@
     </type>
     <type name="Barrel_Blue">
         <nominal>45</nominal>
-        <lifetime>907200</lifetime>
+        <lifetime>1296000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -2950,7 +2950,7 @@
     </type>
     <type name="Barrel_Green">
         <nominal>46</nominal>
-        <lifetime>907200</lifetime>
+        <lifetime>1296000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -2965,7 +2965,7 @@
     </type>
     <type name="Barrel_Red">
         <nominal>45</nominal>
-        <lifetime>907200</lifetime>
+        <lifetime>1296000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -2980,7 +2980,7 @@
     </type>
     <type name="Barrel_Yellow">
         <nominal>45</nominal>
-        <lifetime>907200</lifetime>
+        <lifetime>1296000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -7007,6 +7007,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <value name="Tier1"/>
     </type>
     <type name="FaceCover_Improvised">
         <nominal>0</nominal>
@@ -15126,10 +15127,10 @@
         <usage name="Medic"/>
     </type>
     <type name="PartyTent">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>600000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15140,10 +15141,10 @@
         <value name="Tier1"/>
     </type>
     <type name="PartyTent_Blue">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>600000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15154,10 +15155,10 @@
         <value name="Tier1"/>
     </type>
     <type name="PartyTent_Brown">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>600000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15168,10 +15169,10 @@
         <value name="Tier1"/>
     </type>
     <type name="PartyTent_Lunapark">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>600000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16163,7 +16164,7 @@
         <usage name="Village"/>
     </type>
     <type name="PunchedCard">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -17143,7 +17144,7 @@
         <usage name="Village"/>
     </type>
     <type name="SeaChest">
-        <nominal>42</nominal>
+        <nominal>32</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -17155,6 +17156,7 @@
         <usage name="Industrial"/>
         <usage name="Farm"/>
         <usage name="Coast"/>
+        <value name="Tier2"/>
     </type>
     <type name="Sedan_02">
         <nominal>0</nominal>
@@ -17765,7 +17767,7 @@
     </type>
     <type name="ShelterFabric">
         <nominal>0</nominal>
-        <lifetime>1200000</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17787,7 +17789,7 @@
     </type>
     <type name="ShelterLeather">
         <nominal>0</nominal>
-        <lifetime>1200000</lifetime>
+        <lifetime>1296000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17809,7 +17811,7 @@
     </type>
     <type name="ShelterStick">
         <nominal>0</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>1296000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -17904,14 +17906,28 @@
         <value name="Tier2"/>
     </type>
     <type name="ShippingContainerKeys_Blue">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Prison"/>
+    </type>
+    <type name="ShippingContainerKeys_Red">
+        <nominal>2</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <usage name="Prison"/>
     </type>
     <type name="ShippingContainerKeys_Orange">
         <nominal>0</nominal>
@@ -23873,8 +23889,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
         <usage name="Military"/>
         <value name="Tier3"/>
     </type>
@@ -23890,26 +23908,22 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <tag name="floor"/>
-        <usage name="Village"/>
-        <usage name="Industrial"/>
         <usage name="Military"/>
+        <usage name="Police"/>
         <value name="Tier3"/>
     </type>
     <type name="Breakfluid">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <tag name="shelves"/>
-        <tag name="floor"/>
-        <usage name="Village"/>
-        <usage name="Industrial"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+        <category name="clothes"/>
         <usage name="Military"/>
+        <usage name="Police"/>
         <value name="Tier3"/>
     </type>
     <type name="EngineOil">
@@ -23923,8 +23937,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <usage name="Police"/>
-    </type>
+        </type>
     <type name="BookBible">
         <nominal>5</nominal>
         <lifetime>2700</lifetime>
