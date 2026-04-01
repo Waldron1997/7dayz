@@ -62,8 +62,9 @@
 								"custom/QRCODES.json",
 								"custom/28dayzlater_new_locations.json",
 								"custom/28dayzLore.json",
-								"custom/28dayz.json",
-								"custom/28dayzT3v2.json"
+								"custom/28dayz_bases.json",
+								"custom/28dayzT3v2.json",
+								"custom/28dayznewtrader_gates.json"
 							],
 		"environmentMinTemps": [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
 		"environmentMaxTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
