@@ -14916,6 +14916,8 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="PP19_Bttstck">
         <nominal>10</nominal>
@@ -14929,6 +14931,8 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <usage name="Police"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="PSO6Optic">
         <nominal>6</nominal>
