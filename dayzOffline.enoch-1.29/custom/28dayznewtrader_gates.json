@@ -161,6 +161,22 @@
             "customString": ""
         },
         {
+            "name": "Land_Underground_Panel_Lever",
+            "pos": [
+                6303.8681640625,
+                282.25982666015627,
+                6811.5888671875
+            ],
+            "ypr": [
+                -32.40000534057617,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
             "name": "SeaChest",
             "pos": [
                 6287.5478515625,
@@ -285,6 +301,22 @@
                 -0.0
             ],
             "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Pickaxe",
+            "pos": [
+                6275.119140625,
+                271.8211669921875,
+                6833.896484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
             "enableCEPersistency": 0,
             "customString": ""
         },
