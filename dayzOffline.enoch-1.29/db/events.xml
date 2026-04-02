@@ -582,7 +582,6 @@
         <children>
             <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbF_PoliceWomanNormal"/>
             <child lootmax="5" lootmin="0" max="0" min="40" type="ZmbM_PolicemanFat"/>
-            <child lootmax="5" lootmin="0" max="20" min="0" type="ZmbM_PolicemanSpecForce"/>
             <child lootmax="5" lootmin="0" max="20" min="0" type="ZmbM_PolicemanSpecForce_Heavy"/>
         </children>
     </event>
@@ -604,7 +603,7 @@
             <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_PolicemanFat"/>
             <child lootmax="5" lootmin="0" max="40" min="0" type="ZmbM_PolicemanSpecForce_Heavy"/>
             <child lootmax="5" lootmin="0" max="20" min="0" type="ZmbM_PolicemanSpecForce"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="10" min="1" type="ZmbM_NBC_Yellow"/>
         </children>
     </event>
     <event name="InfectedPrisoner">
@@ -642,7 +641,7 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_priestPopSkinny"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbF_MilkMaidOld_Black"/>
+            <child lootmax="5" lootmin="0" max="10" min="10" type="ZmbF_MilkMaidOld_Black"/>
         </children>
     </event>
     <event name="InfectedSanta">
