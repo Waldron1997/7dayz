@@ -545,20 +545,14 @@
 		<pos x="10026.365" z="8644.638" a="0" y="208.640" group="Train_Mil_Sitnik"/>
 	</event>
 	<event name="StaticMilitaryConvoy">
-		<zone smin="0" smax="0" dmin="10" dmax="10" r="50" />
-		<pos x="8772.478" z="8563.994" a="0" y="269.798" group="Abandoned_Borek"/>
-		<pos x="10187.881" z="5935.272" a="0" y="228.088" group="Abandoned_Karlin"/>
+		<zone smin="0" smax="0" dmin="10" dmax="20" r="70" />
 		<pos x="4756.113" z="3061.519" a="0" y="413.901" group="Abandoned_Nadbor"/>
 		<pos x="8235.772" z="2685.868" a="0" y="386.076" group="Abandoned_Rodzanica"/>
-		<pos x="8540.935" z="10389.016" a="0" y="297.710" group="Abandoned_Tarnow"/>
-		<pos x="3273.258" z="4830.391" a="0" y="395.621" group="Ambushed_Adamow"/>
 		<pos x="11726.685" z="2852.414" a="0" y="336.404" group="Ambushed_Kulno"/>
 		<pos x="3158.676" z="2952.208" a="0" y="425.331" group="Ambushed_Polana"/>
 		<pos x="5424.362" z="1501.195" a="0" y="440.453" group="Ambushed_Swarog"/>
 		<pos x="1079.211" z="2327.807" a="0" y="424.483" group="Supply_Dambog"/>
-		<pos x="6021.056" z="8017.619" a="0" y="218.643" group="Supply_Kopa"/>
 		<pos x="9023.074" z="976.305" a="0" y="322.591" group="Supply_Rodzanica2"/>
-		<pos x="8180.023" z="4967.042" a="0" y="307.996" group="Supply_Roztoka"/>
 		<pos x="2411.817" z="1431.504" a="0" y="441.192" group="Supply_Tymbard"/>
 	</event>
 	<event name="StaticPoliceSituation">
