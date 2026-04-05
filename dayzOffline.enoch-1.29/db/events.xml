@@ -629,10 +629,16 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_HunterOld_Autumn"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Spring"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Summer"/>
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_HunterOld_Winter"/>
+            <child lootmax="5" lootmin="0" max="10" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="20" min="10" type="ZmbF_ParamedicNormal_Blue"/>
+            <child lootmax="5" lootmin="0" max="15" min="10" type="ZmbM_PatientSkinny"/>
+            <child lootmax="5" lootmin="0" max="20" min="10" type="ZmbF_NurseFat"/>
+            <child lootmax="5" lootmin="0" max="5" min="5" type="ZmbM_usSoldier_Heavy_Woodland"/>
+            <child lootmax="5" lootmin="0" max="5" min="5" type="ZmbM_usSoldier_Officer_Desert"/>
+            <child lootmax="5" lootmin="0" max="10" min="10" type="ZmbM_PatrolNormal_Autumn"/>
+            <child lootmax="5" lootmin="0" max="5" min="5" type="ZmbM_PatrolNormal_Flat"/>
+            <child lootmax="5" lootmin="0" max="5" min="5" type="ZmbM_PatrolNormal_PautRev"/>
+            <child lootmax="5" lootmin="0" max="5" min="5" type="ZmbM_PatrolNormal_Summer"/>
         </children>
     </event>
     <event name="InfectedReligious">
