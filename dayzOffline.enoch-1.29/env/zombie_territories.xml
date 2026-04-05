@@ -146,7 +146,14 @@
 
     </territory>
     <territory color="1289674462">
-        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="3" dmax="3" x="6680.47" z="6588.67" r="20"/>
+		<!--Used for Bridges-->
+        <zone name="InfectedPrisoner" smin="0" smax="0" dmin="35" dmax="35" x="1460.55" z="7525.39" r="15"/>
+		<zone name="InfectedPrisoner" smin="0" smax="0" dmin="35" dmax="35" x="4051.37" z="8964.06" r="15"/>
+		<zone name="InfectedPrisoner" smin="0" smax="0" dmin="35" dmax="35" x="5315.23" z="9482.03" r="15"/>
+		<zone name="InfectedPrisoner" smin="0" smax="0" dmin="35" dmax="35" x="6445.7" z="10867.58" r="15"/>
+		<zone name="InfectedPrisoner" smin="0" smax="0" dmin="35" dmax="35" x="7955.08" z="11810.94" r="15"/>
+		<zone name="InfectedPrisoner" smin="0" smax="0" dmin="35" dmax="35" x="11015.63" z="11282.42" r="15"/>
+
     </territory>
     <territory color="1910952871">
 <zone name="InfectedSolitude" smin="0" smax="0" dmin="14" dmax="21" x="571.67" z="12027.1" r="40"/>
@@ -395,30 +402,8 @@
 		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="15" dmax="25" x="8943.75" z="4497.09" r="25"/>
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="15" dmax="25" x="8925" z="4215.76" r="25"/>
 		
-<!--Bridges-->
+<!--BridgesSeeInfectedPrisoner-->
         
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="1445.7" z="7550" r="15"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="4071.09" z="8970.31" r="15"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="5303.91" z="9488.87" r="15"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="6447.27" z="10881.05" r="15"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="7950" z="11825" r="15"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="8415.63" z="11848.44" r="15"/>
-        <zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="11018.75" z="11286.72" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="1450.7" z="7555" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="4076.09" z="8975.31" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="5308.91" z="9493.87" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="6452.27" z="10886.05" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="7955" z="11830" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="8420.63" z="11853.44" r="15"/>
-        <zone name="InfectedPolice" smin="0" smax="0" dmin="8" dmax="10" x="11023.75" z="11291.72" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="1455.7" z="7560" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="4081.09" z="8980.31" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="5313.91" z="9498.87" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="6457.27" z="10891.05" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="7960" z="11835" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="8425.63" z="11858.44" r="15"/>
-        <zone name="InfectedMedic" smin="0" smax="0" dmin="8" dmax="15" x="11028.75" z="11296.72" r="15"/>
-
 		
 <!--former Gas Zones-->
 <zone name="InfectedArmy" smin="0" smax="0" dmin="15" dmax="35" x="7825.21" z="5846.43" r="80"/>
@@ -429,8 +414,9 @@
 
 <!--Prison-->
 		
-		<zone name="InfectedPoliceHard" smin="0" smax="0" dmin="75" dmax="100" x="5499.22" z="8729.48" r="75"/>
-    	<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="8" x="5500.22" z="8706.48" r="50"/>
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="65" dmax=75" x="5499.22" z="8729.48" r="45"/>
+    	<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="8" x="5500.22" z="8706.48" r="35"/>
+		<zone name="InfectedPoliceHard" smin="0" smax="0" dmin="10" dmax="15" x="5527.93" z="8776.95" r="10"/> 
 		
 <!--Bunker-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="30" dmax="40" x="550.00" z="1122.66" r="20"/> 
@@ -684,8 +670,8 @@
 
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="35" dmax="45" x="10834.38" z="4141.34" r="100"/>
 		<zone name="InfectedSpooky" smin="0" smax="0" dmin="2" dmax="5" x="10840.38" z="4149.34" r="50"/>
-		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="10" dmax="15" x="7862.50" z="4141.34" r="10"/>
-		<zone name="InfectedCity" smin="0" smax="0" dmin="15" dmax="20" x="7861.72" z="3792.61" r="20"/>
+		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="8117.97" z="3833.59" r="10"/>
+		<zone name="InfectedCity" smin="0" smax="0" dmin="15" dmax="20" x="8115.63" z="3842.97" r="20"/>
 
 		
 
