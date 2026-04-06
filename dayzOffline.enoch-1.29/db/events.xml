@@ -466,7 +466,7 @@
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_FirefighterNormal"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Grey"/>
         </children>
     </event>
     <event name="InfectedIndustrial">
@@ -532,7 +532,7 @@
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_ParamedicNormal_Red"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_PatientOld"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_DoctorFat"/>
-            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Grey"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Black"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Blue"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbM_ParamedicNormal_Green"/>
@@ -571,8 +571,7 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_NBC_Yellow"/>
-            <child lootmax="4" lootmin="0" max="0" min="10" type="ZmbM_NBC_White"/> 
+            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_NBC_Yellow"/>            
         </children>
     </event>
     <event name="InfectedPolice">
@@ -629,7 +628,7 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="10" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="5" lootmin="0" max="10" min="10" type="ZmbM_NBC_Grey"/>
             <child lootmax="5" lootmin="0" max="20" min="10" type="ZmbF_ParamedicNormal_Blue"/>
             <child lootmax="5" lootmin="0" max="15" min="10" type="ZmbM_PatientSkinny"/>
             <child lootmax="5" lootmin="0" max="20" min="10" type="ZmbF_NurseFat"/>
@@ -655,8 +654,8 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_priestPopSkinny"/>
-            <child lootmax="5" lootmin="0" max="10" min="10" type="ZmbF_MilkMaidOld_Black"/>
+            <child lootmax="5" lootmin="0" max="0" min="99" type="ZmbM_priestPopSkinny"/>
+            <child lootmax="5" lootmin="0" max="" min="1" type="ZmbF_MilkMaidOld_Black"/>
         </children>
     </event>
     <event name="InfectedSanta">
