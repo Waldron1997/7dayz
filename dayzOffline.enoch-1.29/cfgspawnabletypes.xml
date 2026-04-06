@@ -1278,16 +1278,12 @@
 		<cargo chance="0.10"> <item name="CigarettePack_Chernamorka" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_Yellow">
-		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>
-		<cargo chance="0.25"> <item name="Grenade_ChemGas" /> </cargo>
 		<cargo chance="0.50"> <item name="CigarettePack_Chernamorka" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_White">
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
-			<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>
-			<cargo chance="0.50"> <item name="CigarettePack_Chernamorka" /> </cargo>
+			<cargo chance="0.05"> <item name="AntiChemInjector" /> </cargo>			
 	</type>
 	<type name="ZmbM_eastSoldier_normal_Navy">
 		<attachments chance="1.00">
