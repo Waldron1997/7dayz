@@ -1279,6 +1279,7 @@
 	</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo chance="0.50"> <item name="CigarettePack_Chernamorka" /> </cargo>
+		<cargo chance="0.50"> <item name="CigarettePack_Chernamorka" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_White">
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
