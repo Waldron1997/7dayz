@@ -10,7 +10,7 @@
     "PlayerData":
 	{
     	"disablePersonalLight": true,
-      	"spawnGearPresetFiles": ["custom/adminloadout.json"],
+      	"spawnGearPresetFiles": ["custom/28dayzfreshieloadout.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
@@ -55,16 +55,13 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": ["custom/28dayzbunkerii.json",
+		"objectSpawnersArr": [
+                                "custom/28dayzbunkerii.json",
 								"custom/28dayznewtrader.json",
 								"custom/28dayzriver2.json",
-								"custom/28dayzsurvivorbases.json",
-								"custom/QRCODES.json",
-								"custom/28dayzlater_new_locations.json",
 								"custom/28dayzLore.json",
 								"custom/28dayz_bases.json",
-								"custom/28dayzT3v2.json",
-								"custom/28dayznewtrader_gates.json"
+								"custom/28dayzT3v2.json"
 							],
 		"environmentMinTemps": [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
 		"environmentMaxTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
