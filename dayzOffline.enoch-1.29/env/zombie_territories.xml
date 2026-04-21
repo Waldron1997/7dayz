@@ -446,11 +446,10 @@
 
 <!--Prison-->
 		
-		<zone name="InfectedPolice" smin="0" smax="0" dmin="65" dmax=75" x="5499.22" z="8729.48" r="45"/>
+		<zone name="InfectedPolice" smin="0" smax="0" dmin="65" dmax="75" x="5499.22" z="8729.48" r="45"/>
     	<zone name="InfectedSpooky" smin="0" smax="0" dmin="5" dmax="8" x="5500.22" z="8706.48" r="35"/>
 		<zone name="InfectedPoliceHard" smin="0" smax="0" dmin="10" dmax="15" x="5527.93" z="8776.95" r="10"/>
-		<zone name="InfectedPolice" smin="0" smax="0" dmin="65" dmax="75" x="5499.22" z="8729.48" r="45"/>	
-		
+				
 <!--Bunker-->
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="30" dmax="40" x="550.00" z="1122.66" r="20"/> 
 		<zone name="InfectedSpooky" smin="0" smax="0" dmin="2" dmax="5" x="551.00" z="1122.66" r="20"/>
