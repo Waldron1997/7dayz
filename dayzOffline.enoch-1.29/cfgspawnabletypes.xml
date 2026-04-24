@@ -3248,7 +3248,7 @@
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
-<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_357" /> </cargo>
@@ -3263,7 +3263,7 @@
 	<type name="ZmbM_FarmerFat_Blue">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+		<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
@@ -3278,7 +3278,7 @@
 	<type name="ZmbM_FarmerFat_Brown">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+		<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
@@ -3293,7 +3293,7 @@
 	<type name="ZmbM_FarmerFat_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+		<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
