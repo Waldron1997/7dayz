@@ -24192,10 +24192,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Ammo_RPG7_AP">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24206,10 +24206,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Ammo_RPG7_HE">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
