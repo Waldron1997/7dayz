@@ -1448,7 +1448,7 @@
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
 		<cargo preset="foodArmy" />
-		<cargo chance="0.05"> <item name="PunchedCard" /> </cargo>
+		<cargo chance="0.10"> <item name="PunchedCard" /> </cargo>
 		<cargo chance="0.10"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308Win" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308WinTracer" /> </cargo>
@@ -1522,7 +1522,7 @@
 		<cargo chance="0.10"> <item name="Deagle" /> </cargo>
 		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="ShippingContainerKeys_Red" /> </cargo>
+		<cargo chance="0.10"> <item name="ShippingContainerKeys_Red" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
@@ -2886,7 +2886,7 @@
 			<item name="Mag_SSG82_5rnd" chance="0.50" />
 			<item name="Mag_Scout_5Rnd" chance="0.50" />
 		</cargo>
-		<cargo chance="0.05"> <item name="ShippingContainerKeys_Blue" /> </cargo>
+		<cargo chance="0.10"> <item name="ShippingContainerKeys_Blue" /> </cargo>
 		<cargo chance="0.07"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.07"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.07"> <item name="Ammo_12gaSlug" /> </cargo>
