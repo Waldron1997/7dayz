@@ -2846,7 +2846,7 @@
 			<item name="BaseRadio" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Shemag_Red" chance="1.0" />
+			<item name="Shemag_White" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Chestplate" chance="1.0" />
