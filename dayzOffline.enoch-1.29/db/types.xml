@@ -24158,7 +24158,7 @@
     <type name="Spraycan_Black">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24176,7 +24176,7 @@
     <type name="Spraycan_Green">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24222,7 +24222,7 @@
     <type name="MessTin">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24237,7 +24237,7 @@
     <type name="ButaneCanister">
         <nominal>25</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24320,7 +24320,7 @@
     <type name="Cassette">
         <nominal>50</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24337,7 +24337,7 @@
     <type name="Radio">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
