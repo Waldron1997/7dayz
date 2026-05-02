@@ -24073,7 +24073,7 @@
     <type name="CannabisSeedsPack">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>3</min>
         <quantmin>60</quantmin>
         <quantmax>100</quantmax>
@@ -24158,7 +24158,7 @@
     <type name="Spraycan_Black">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24176,7 +24176,7 @@
     <type name="Spraycan_Green">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24194,7 +24194,7 @@
     <type name="Ammo_RPG7_AP">
         <nominal>5</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24208,7 +24208,7 @@
     <type name="Ammo_RPG7_HE">
         <nominal>5</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24220,10 +24220,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="MessTin">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>10</min>
+        <restock>30</restock>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24235,10 +24235,10 @@
         <value name="Tier3"/>
     </type>
     <type name="ButaneCanister">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
-        <min>15</min>
+        <restock>30</restock>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24258,8 +24258,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="clothes"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <value name="Tier3"/>
@@ -24320,7 +24322,7 @@
     <type name="Cassette">
         <nominal>50</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -24337,7 +24339,7 @@
     <type name="Radio">
         <nominal>20</nominal>
         <lifetime>2700</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
