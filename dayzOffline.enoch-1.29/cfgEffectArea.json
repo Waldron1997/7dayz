@@ -96,7 +96,7 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-		{ 	"AreaName": "Infestation1", 
+		{ 	"AreaName": "Infestation4", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
