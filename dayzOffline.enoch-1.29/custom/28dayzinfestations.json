@@ -1,0 +1,116 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Furniture_table_DZ",
+            "pos": [
+                11331.0771484375,
+                208.6640167236328,
+                8003.06005859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_table_DZ",
+            "pos": [
+                3728.158935546875,
+                240.65052795410157,
+                6354.0126953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookDracula",
+            "pos": [
+                11331.1416015625,
+                209.1803741455078,
+                8003.12548828125
+            ],
+            "ypr": [
+                -180.0,
+                90.0,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookFrankenstein",
+            "pos": [
+                7810.109375,
+                263.94232177734377,
+                8592.09375
+            ],
+            "ypr": [
+                179.99996948242188,
+                89.97201538085938,
+                179.99996948242188
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_table_DZ",
+            "pos": [
+                7809.9619140625,
+                263.4023132324219,
+                8592.04296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheDayOfTheBeast",
+            "pos": [
+                3728.343994140625,
+                241.1507110595703,
+                6353.998046875
+            ],
+            "ypr": [
+                -0.000005008955668017734,
+                -90.0,
+                -0.000005008955668017734
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheWarOfTheWorlds",
+            "pos": [
+                2868.58447265625,
+                374.6199035644531,
+                5011.90966796875
+            ],
+            "ypr": [
+                -0.000005008955668017734,
+                -90.0,
+                -0.000005008955668017734
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

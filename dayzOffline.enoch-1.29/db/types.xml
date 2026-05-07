@@ -13243,10 +13243,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_MP5_30Rnd">
-        <nominal>12</nominal>
+        <nominal>22</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>20</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -13471,16 +13471,17 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_UMP_25Rnd">
-        <nominal>22</nominal>
+        <nominal>32</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>17</min>
+        <min>25</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
+        <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
     <type name="Mag_VAL_20Rnd">
@@ -14542,10 +14543,10 @@
         <value name="Tier3"/>
     </type>
     <type name="NBCGlovesGray">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14555,6 +14556,7 @@
         <tag name="ground"/>
         <tag name="shelves"/>
         <usage name="Military"/>
+        <usage name="Medic"/>
         <value name="Tier3"/>
     </type>
     <type name="NBCGlovesYellow">
@@ -14567,8 +14569,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Medic"/>
-        <value name="Tier3"/>
+        <usage name="Prison"/>        
     </type>
     <type name="NBCHoodGray">
         <nominal>1</nominal>
@@ -24072,7 +24073,7 @@
     <type name="CannabisSeedsPack">
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
-        <restock>1800</restock>
+        <restock>600</restock>
         <min>3</min>
         <quantmin>60</quantmin>
         <quantmax>100</quantmax>
@@ -24191,10 +24192,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Ammo_RPG7_AP">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>8</min>
+        <restock>300</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24205,10 +24206,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Ammo_RPG7_HE">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>8</min>
+        <restock>300</restock>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24219,10 +24220,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="MessTin">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <restock>30</restock>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24234,10 +24235,10 @@
         <value name="Tier3"/>
     </type>
     <type name="ButaneCanister">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>2700</lifetime>
-        <restock>0</restock>
-        <min>15</min>
+        <restock>30</restock>
+        <min>25</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24257,8 +24258,10 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
-        <category name="clothes"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="shelves"/>
+        <tag name="floor"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <value name="Tier3"/>

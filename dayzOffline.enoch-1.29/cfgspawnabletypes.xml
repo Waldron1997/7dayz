@@ -1279,6 +1279,7 @@
 	</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo chance="0.50"> <item name="CigarettePack_Chernamorka" /> </cargo>
+		<cargo chance="0.50"> <item name="CigarettePack_Chernamorka" /> </cargo>
 	</type>
 	<type name="ZmbM_NBC_White">
 			<cargo chance="1.0"> <item name="Grenade_ChemGas" /> </cargo>
@@ -1447,7 +1448,7 @@
 	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
 		<cargo preset="foodArmy" />
-		<cargo chance="0.05"> <item name="PunchedCard" /> </cargo>
+		<cargo chance="0.10"> <item name="PunchedCard" /> </cargo>
 		<cargo chance="0.10"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308Win" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_308WinTracer" /> </cargo>
@@ -1521,7 +1522,7 @@
 		<cargo chance="0.10"> <item name="Deagle" /> </cargo>
 		<cargo chance="0.03"> <item name="FlashGrenade" /> </cargo>
 		<cargo chance="0.01"> <item name="Mag_FNX45_15Rnd" /> </cargo>
-		<cargo chance="0.05"> <item name="ShippingContainerKeys_Red" /> </cargo>
+		<cargo chance="0.10"> <item name="ShippingContainerKeys_Red" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
@@ -2845,7 +2846,7 @@
 			<item name="BaseRadio" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Shemag_Red" chance="1.0" />
+			<item name="Shemag_White" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Chestplate" chance="1.0" />
@@ -2885,7 +2886,7 @@
 			<item name="Mag_SSG82_5rnd" chance="0.50" />
 			<item name="Mag_Scout_5Rnd" chance="0.50" />
 		</cargo>
-		<cargo chance="0.05"> <item name="ShippingContainerKeys_Blue" /> </cargo>
+		<cargo chance="0.10"> <item name="ShippingContainerKeys_Blue" /> </cargo>
 		<cargo chance="0.07"> <item name="WeaponCleaningKit" /> </cargo>
 		<cargo chance="0.07"> <item name="Ammo_12gaPellets" /> </cargo>
 		<cargo chance="0.07"> <item name="Ammo_12gaSlug" /> </cargo>
@@ -3247,7 +3248,7 @@
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
-<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_357" /> </cargo>
@@ -3262,7 +3263,7 @@
 	<type name="ZmbM_FarmerFat_Blue">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+		<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
@@ -3277,7 +3278,7 @@
 	<type name="ZmbM_FarmerFat_Brown">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+		<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
@@ -3292,7 +3293,7 @@
 	<type name="ZmbM_FarmerFat_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-		<cargo chance="0.02"> <item name="CannabisSeeds" /> </cargo>
+		<cargo chance="0.04"> <item name="CannabisSeeds" /> </cargo>
 		<cargo chance="0.08"> <item name="Ammo_12gaPellets" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_12gaSlug" /> </cargo>
 <cargo chance="0.08"> <item name="Ammo_22" /> </cargo>
