@@ -614,12 +614,6 @@
 		<zone name="InfectedArmy" smin="0" smax="0" dmin="10" dmax="15" x="8117.97" z="3833.59" r="10"/>
 		<zone name="InfectedCity" smin="0" smax="0" dmin="15" dmax="20" x="8115.63" z="3842.97" r="20"/>
 
-		<!--Infestations-->
-		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="55" x="11332.81" z="8006.26" r="15"/>
-		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="55" x="7808.98" z="8588.36" r="15"/>
-		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="55" x="3725.78" z="6354.66" r="15"/>
-		<zone name="InfectedNBC" smin="0" smax="0" dmin="45" dmax="55" x="2870.31" z="5010.21" r="15"/>
-
 
     </territory>
     <territory color="1879004416">
