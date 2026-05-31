@@ -71,6 +71,27 @@
             ]
         },
         {
+            "slotName": "Eyewear",
+            "discreteItemSets": [
+                {
+                    "itemType": "Headtorch_Grey",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "Battery9V"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
             "slotName": "Mask",
             "discreteItemSets": [
                 {
@@ -335,6 +356,36 @@
                 },
                 {
                     "itemType": "SalineBagIV",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "SodaCan_Pipsi",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "SodaCan_Pipsi",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "PurificationTablets",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
