@@ -1,13 +1,61 @@
 {
     "spawnWeight": 1,
-    "name": "DZB_Loadout_1",
-    "characterTypes": [],
+    "name": "Outcast_Sentinel_211",
+    "characterTypes": [
+        "SurvivorM_Indar",
+        "SurvivorM_Rolf"
+    ],
     "attachmentSlotItemSets": [
         {
-            "slotName": "Feet",
+            "slotName": "Vest",
             "discreteItemSets": [
                 {
-                    "itemType": "AthleticShoes_Brown",
+                    "itemType": "PlateCarrierVest_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "M18SmokeGrenade_Purple",
+                        "M18SmokeGrenade_White",
+                        "FlashGrenade",
+                        "FlashGrenade"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": [
+                        {
+                            "itemType": "PlateCarrierPouches_Green",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1
+                        },
+                        {
+                            "itemType": "PlateCarrierHolster_Green",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "slotName": "Back",
+            "discreteItemSets": [
+                {
+                    "itemType": "GhillieBushrag_Woodland",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -23,10 +71,10 @@
             ]
         },
         {
-            "slotName": "Legs",
+            "slotName": "Mask",
             "discreteItemSets": [
                 {
-                    "itemType": "CanvasPantsMidi_Blue",
+                    "itemType": "BalaclavaMask_Green",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -45,7 +93,7 @@
             "slotName": "Body",
             "discreteItemSets": [
                 {
-                    "itemType": "TShirt_10thAnniversary",
+                    "itemType": "USMCJacket_Woodland",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 1.0,
@@ -59,11 +107,108 @@
                     "complexChildrenTypes": []
                 }
             ]
+        },
+        {
+            "slotName": "Legs",
+            "discreteItemSets": [
+                {
+                    "itemType": "USMCPants_Woodland",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Feet",
+            "discreteItemSets": [
+                {
+                    "itemType": "JungleBoots_Olive",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Headgear",
+            "discreteItemSets": [
+                {
+                    "itemType": "BallisticHelmet_Woodland",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Gloves",
+            "discreteItemSets": [
+                {
+                    "itemType": "OMNOGloves_Brown",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
+        },
+        {
+            "slotName": "Hips",
+            "discreteItemSets": [
+                {
+                    "itemType": "MilitaryBelt",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "Canteen"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false,
+                    "complexChildrenTypes": []
+                }
+            ]
         }
     ],
     "discreteUnsortedItemSets": [
         {
-            "name": "",
+            "name": "Cargo1",
             "spawnWeight": 1,
             "attributes": {
                 "healthMin": 1.0,
@@ -75,6 +220,20 @@
             "simpleChildrenUseDefaultAttributes": false,
             "complexChildrenTypes": [
                 {
+                    "itemType": "Deagle",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1,
+                    "simpleChildrenTypes": [
+                        "PistolOptic"
+                    ],
+                    "simpleChildrenUseDefaultAttributes": false
+                },
+                {
                     "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
@@ -85,7 +244,7 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Apple",
+                    "itemType": "BandageDressing",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -95,7 +254,7 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "Apple",
+                    "itemType": "Magnum",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -105,7 +264,7 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "StoneKnife",
+                    "itemType": "Candycane_RedGreen",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
@@ -115,7 +274,67 @@
                     "quickBarSlot": -1
                 },
                 {
-                    "itemType": "SodaCan_Pipsi",
+                    "itemType": "Ammo_357",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "Ammo_357",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "Ammo_357",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "Ammo_357",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "BandageDressing",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "BandageDressing",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "SalineBagIV",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,
