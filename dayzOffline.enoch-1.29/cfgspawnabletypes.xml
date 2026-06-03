@@ -1299,7 +1299,7 @@
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
 			<cargo chance="1.0"> <item name="FlashGrenade" /> </cargo>
-	</type>
+    </type>
 	<!--ARMY-->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
@@ -2714,9 +2714,13 @@
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbM_Gamedev_Gray">
+		<attachments chance="1.00">
+			<item name="Shemag_White" chance="1.0" />
+		</attachments>
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
+		<cargo chance="0.15"> <item name="BookTheCallOfCthulhu" /> </cargo>
 	</type>
 	<!--FireFighter-->
 	<type name="ZmbM_FirefighterNormal">
@@ -2916,7 +2920,7 @@
 	<!--Religious-->
 	<type name="ZmbM_priestPopSkinny">
 		<cargo preset="foodHermit" />
-		<cargo chance="0.15"> <item name="BookBible" /> </cargo>
+		<cargo chance="0.20"> <item name="BookBible" /> </cargo>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<!--Solitude-->

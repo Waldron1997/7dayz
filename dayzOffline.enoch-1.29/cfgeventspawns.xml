@@ -555,6 +555,13 @@
 		<pos x="9023.074" z="976.305" a="0" y="322.591" group="Supply_Rodzanica2"/>
 		<pos x="2411.817" z="1431.504" a="0" y="441.192" group="Supply_Tymbard"/>
 	</event>
+	<event name="StaticRoutesSouth">
+		<zone smin="0" smax="0" dmin="10" dmax="20" r="70" />
+		<pos x="3435.01" z="1817.76" a="0" y="481.259" group="Southern_Routes_Polana"/>
+		<pos x="8054.6" z="1833.85" a="0" y="271.171" group="Southern_Routes_Rodzanika"/>
+		<pos x="11077.5" z="3430.69" a="0" y="316.898" group="Routes_South_Konopki"/>
+		<pos x="10526.1" z="1834.57" a="0" y="238.787" group="Routes_South_Dolnik"/>
+	</event>
 	<event name="StaticPoliceSituation">
 		<zone smin="0" smax="0" dmin="6" dmax="8" r="50" />
 		<pos x="10260.424" z="4227.363" a="0" y="339.232" group="Block_Gieraltow"/>
