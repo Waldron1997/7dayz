@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+	<type name="ScientificBriefcase">
+		<damage min="0.0" max="0.0" />
+		<cargo chance="1.0"> <item name="ShippingContainerKeys_Red" /> </cargo>
+		<cargo chance="1.0"> <item name="ShippingContainerKeys_Blue" /> </cargo>
+		<cargo chance="1.0"> <item name="ShippingContainerKeys_Yellow" /> </cargo>
+		<cargo chance="1.0"> <item name="ShippingContainerKeys_Orange" /> </cargo>
+		<cargo chance="1.0"> <item name="PunchedCard" /> </cargo>
+	</type>
+	<type name="ScientificBriefcaseKeys">
+		<damage min="0.9" max="0.9" />
+	</type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -132,12 +143,6 @@
 	</type>
 	<type name="FilteringBottle">
 		<damage min="0.1" max="0.1" />
-	</type>
-	<type name="ScientificBriefcase">
-		<damage min="0.1" max="0.1" />
-	</type>
-	<type name="ScientificBriefcaseKeys">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Blue">
 		<damage min="0.90" max="0.90" />
@@ -2714,13 +2719,18 @@
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
 	</type>
 	<type name="ZmbM_Gamedev_Gray">
-		<attachments chance="1.00">
-			<item name="Shemag_White" chance="1.0" />
-		</attachments>
-		<cargo preset="foodCity" />
-		<cargo preset="toolsCity" />
+		<attachments chance="1.00"><item name="DuffelBagSmall_Medical" chance="1.0" /></attachments>
+		<attachments chance="1.00"><item name="ThickFramesGlasses" chance="1.0" /></attachments>
+		<attachments chance="1.00"><item name="BallisticHelmet_UN" chance="1.0" /></attachments>
 		<cargo chance="0.005"> <item name="Grenade_ChemGas" /> </cargo>
-		<cargo chance="0.15"> <item name="BookTheCallOfCthulhu" /> </cargo>
+		<cargo chance="0.90"> <item name="BookTheCallOfCthulhu" /> </cargo>
+		<cargo chance="0.80"> <item name="ScientificBriefcaseKeys" /> </cargo>
+		<cargo chance="0.90"> <item name="Thermometer" /> </cargo>
+		<cargo chance="0.90"> <item name="BloodTestKit" /> </cargo>
+		<cargo chance="0.90"> <item name="Bandage" /> </cargo>
+		<cargo chance="0.90"> <item name="AntiChemInjector" /> </cargo>
+		<cargo chance="0.90"> <item name="TetracyclineAntibiotics" /> </cargo>
+		<cargo chance="0.90"> <item name="ChelatingTablets" /> </cargo>
 	</type>
 	<!--FireFighter-->
 	<type name="ZmbM_FirefighterNormal">
@@ -5333,6 +5343,6 @@
 -->
 
 <!-- ADDITIONS -->
-	
+
 
 </spawnabletypes>

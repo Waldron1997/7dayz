@@ -51,51 +51,37 @@ Example messages:
     
     <message>
         <delay>1</delay>
-        <repeat>50</repeat>
         <onconnect>1</onconnect>
-        <text>*************************************************************************</text>
+        <text>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</text>
     </message>
 <message>
         <delay>1</delay>
-        <repeat>50</repeat>
         <onconnect>1</onconnect>
         <text>               W E L C O M E  T O  2 8  D A Y Z  L A T E R               </text>
     </message>
-<message>
-        <delay>1</delay>
-        <repeat>50</repeat>
-        <onconnect>1</onconnect>
-        <text>                                                                          </text>
-    </message>
     <message>
         <delay>1</delay>
-        <repeat>50</repeat>
         <onconnect>1</onconnect>
-        <text> Discord - https://discord.gg/dQMs4D68uN - for info on the server & rules.</text>
+         <text>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</text>
     </message>
     <message>
-        <delay>1</delay>
-        <repeat>50</repeat>
-        <onconnect>1</onconnect>
-        <text>                                                                          </text>
+      <repeat>60</repeat>
+         <text>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</text>
     </message>
     <message>
-        <delay>1</delay>
-        <repeat>50</repeat>
-        <onconnect>1</onconnect>
-        <text>***************************************************************************</text>
-    </message>
-    
-     <message>
-        <repeat>30</repeat>
-        <text> For Trader / Rules / Economy join the discord https://discord.gg/dQMs4D68uN </text>
+      <repeat>60</repeat>
+        <text>LOGGING WITHIN 300m OF HIGH VALUE LOOT AREAS WILL BE FLAGGED TO ADMIN</text>
     </message>
     <message>
-        <repeat>30</repeat>
-        <text>                                                                              </text>
+      <repeat>60</repeat>
+        <text>SEE #RULES IN DISCORD FOR ALL RULES AROUND LOGGING. NO LOGGING ABUSE PLEASE!</text>
     </message>
     <message>
-        <repeat>30</repeat>
+      <repeat>60</repeat>
+        <text>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</text>
+    </message>
+    <message>
+        <repeat>45</repeat>
         <text> Server Runtime is 4pm - 3am Mon-Fri, 9am - 3am Sat-Sun - UK TIME </text>
     </message>
 

@@ -556,7 +556,7 @@
 		<pos x="2411.817" z="1431.504" a="0" y="441.192" group="Supply_Tymbard"/>
 	</event>
 	<event name="StaticRoutesSouth">
-		<zone smin="0" smax="0" dmin="10" dmax="20" r="70" />
+		<zone smin="0" smax="0" dmin="8" dmax="16" r="100" />
 		<pos x="3435.01" z="1817.76" a="0" y="481.259" group="Southern_Routes_Polana"/>
 		<pos x="8054.6" z="1833.85" a="0" y="271.171" group="Southern_Routes_Rodzanika"/>
 		<pos x="11077.5" z="3430.69" a="0" y="316.898" group="Routes_South_Konopki"/>
