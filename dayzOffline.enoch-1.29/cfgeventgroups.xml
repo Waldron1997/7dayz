@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventgroupdef>
+    <group name="Scientist1">
+            <child type="Land_MobileLaboratory" deloot="0" lootmax="0" lootmin="0" x="0" y="0" z="0" a="72" />
+            <child type="ScientificBriefcase" spawnsecondary="false" x="1.84863" y="0.726837" z="2.30176" a="0" />
+    </group>
+    <group name="Scientist2">
+            <child type="Land_MobileLaboratory" deloot="0" lootmax="0" lootmin="0" x="0" y="0" z="0" a="136.346" />
+            <child type="ScientificBriefcase" spawnsecondary="false" x="2.87524" y="0.726837" z="-0.669922" a="64.3464" />
+    </group>
+    <group name="Scientist3">
+            <child type="Land_MobileLaboratory" deloot="0" lootmax="0" lootmin="0" x="0" y="0" z="0" a="265.95" />
+            <child type="ScientificBriefcase" spawnsecondary="false" x="-2.34912" y="0.726837" z="-1.78809" a="193.95" />
+    </group>
+    <group name="Scientist4">
+            <child type="Land_MobileLaboratory" deloot="0" lootmax="0" lootmin="0" x="0" y="0" z="0" a="219.261" />
+            <child type="ScientificBriefcase" spawnsecondary="false" x="-0.30957" y="0.726837" z="-2.93555" a="147.261" />
+    </group>
     	<!--<pos x="3435.01" z="1817.76" a="0" y="481.259" group="Routes_South_Polana"/>-->
 	<group name="Routes_South_Polana">
 		<child type="Land_Wreck_Uaz" deloot="1" lootmax="4" lootmin="3" x="-4.01001" z="-1.66003" y="0.0679932" a="340.56"/>

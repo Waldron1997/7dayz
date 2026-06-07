@@ -1,0 +1,139 @@
+<!---events.xml-->
+<event name="StaticMyEvent">
+    <nominal>1</nominal>
+    <min>1</min>
+    <max>1</max>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>1000</distanceradius>
+    <cleanupradius>1000</cleanupradius>
+    <flags deletable="1" init_random="0" remove_damaged="0" />
+    <position>fixed</position>
+    <limit>child</limit>
+    <active>1</active>
+    <children />
+</event>
+<!---cfgeventspawns.xml-->
+<event name="StaticMyEvent">
+		<pos x="2110.39" y="280.744" z="11020.4" a="0" group="MyEventGroup" />
+</event>
+<!---cfgeventgroups.xml-->
+<group name="MyEventGroup">
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="1.84863" y="0.726837" z="2.30176" a="0" />
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="72" />
+</group>
+
+
+<!---events.xml-->
+<event name="StaticMyEvent">
+    <nominal>1</nominal>
+    <min>1</min>
+    <max>1</max>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>1000</distanceradius>
+    <cleanupradius>1000</cleanupradius>
+    <flags deletable="1" init_random="0" remove_damaged="0" />
+    <position>fixed</position>
+    <limit>child</limit>
+    <active>1</active>
+    <children />
+</event>
+<!---cfgeventspawns.xml-->
+<event name="StaticMyEvent">
+		<pos x="4062.51" y="237.944" z="10215.1" a="0" group="MyEventGroup" />
+</event>
+<!---cfgeventgroups.xml-->
+<group name="MyEventGroup">
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="2.87524" y="0.726837" z="-0.669922" a="64.3464" />
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="136.346" />
+</group>
+
+
+<!---events.xml-->
+<event name="StaticMyEvent">
+    <nominal>1</nominal>
+    <min>1</min>
+    <max>1</max>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>1000</distanceradius>
+    <cleanupradius>1000</cleanupradius>
+    <flags deletable="1" init_random="0" remove_damaged="0" />
+    <position>fixed</position>
+    <limit>child</limit>
+    <active>1</active>
+    <children />
+</event>
+<!---cfgeventspawns.xml-->
+<event name="StaticMyEvent">
+		<pos x="6347.37" y="175.204" z="11013.2" a="0" group="MyEventGroup" />
+</event>
+<!---cfgeventgroups.xml-->
+<group name="MyEventGroup">
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="-2.34912" y="0.726837" z="-1.78809" a="193.95" />
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="265.95" />
+</group>
+
+
+
+<!---events.xml-->
+<event name="StaticMyEvent">
+    <nominal>1</nominal>
+    <min>1</min>
+    <max>1</max>
+    <lifetime>5400</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>1000</distanceradius>
+    <cleanupradius>1000</cleanupradius>
+    <flags deletable="1" init_random="0" remove_damaged="0" />
+    <position>fixed</position>
+    <limit>child</limit>
+    <active>1</active>
+    <children />
+</event>
+<!---cfgeventspawns.xml-->
+<event name="StaticMyEvent">
+		<pos x="11128.6" y="175.102" z="11399.8" a="0" group="MyEventGroup" />
+</event>
+<!---cfgeventgroups.xml-->
+<group name="MyEventGroup">
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="-0.30957" y="0.726837" z="-2.93555" a="147.261" />
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="219.261" />
+</group>
+
+
+
+
+<event name="StaticScientist">
+	<zone smin="0" smax="0" dmin="8" dmax="16" r="100" />
+		<pos x="2110.39" y="280.744" z="11020.4" a="0" group="Scientist1" />
+        <pos x="4062.51" y="237.944" z="10215.1" a="0" group="Scientist2" />
+        <pos x="6347.37" y="175.204" z="11013.2" a="0" group="Scientist3" />
+        <pos x="11128.6" y="175.102" z="11399.8" a="0" group="Scientist4" />
+</event>
+
+<group name="Scientist1">
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="72" />
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="1.84863" y="0.726837" z="2.30176" a="0" />
+</group>
+
+<group name="Scientist2">
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="136.346" />
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="2.87524" y="0.726837" z="-0.669922" a="64.3464" />
+
+</group>
+
+<group name="Scientist3">
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="265.95" />
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="-2.34912" y="0.726837" z="-1.78809" a="193.95" />
+</group>
+
+<group name="Scientist4">
+        <child type="Land_MobileLaboratory" deloot="0" lootmax="5" lootmin="0" x="0" y="0" z="0" a="219.261" />
+        <child type="ScientificBriefcase" deloot="0" lootmax="5" lootmin="0" x="-0.30957" y="0.726837" z="-2.93555" a="147.261" />
+</group>

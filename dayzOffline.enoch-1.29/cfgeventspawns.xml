@@ -544,6 +544,8 @@
 		<pos x="3267.044" z="8253.642" a="0" y="181.100" group="Train_Mil_Radacz"/>
 		<pos x="10026.365" z="8644.638" a="0" y="208.640" group="Train_Mil_Sitnik"/>
 	</event>
+	
+	
 	<event name="StaticMilitaryConvoy">
 		<zone smin="0" smax="0" dmin="10" dmax="20" r="70" />
 		<pos x="4756.113" z="3061.519" a="0" y="413.901" group="Abandoned_Nadbor"/>
@@ -562,6 +564,14 @@
 		<pos x="11077.5" z="3430.69" a="0" y="316.898" group="Routes_South_Konopki"/>
 		<pos x="10526.1" z="1834.57" a="0" y="238.787" group="Routes_South_Dolnik"/>
 	</event>
+	<event name="StaticScientist">
+		<zone smin="0" smax="0" dmin="8" dmax="16" r="50" />
+		<pos x="2110.39" y="280.744" z="11020.4" a="0" group="Scientist1" />
+        <pos x="4062.51" y="237.944" z="10215.1" a="0" group="Scientist2" />
+        <pos x="6347.37" y="175.204" z="11013.2" a="0" group="Scientist3" />
+        <pos x="11128.6" y="175.102" z="11399.8" a="0" group="Scientist4" />
+	</event>
+
 	<event name="StaticPoliceSituation">
 		<zone smin="0" smax="0" dmin="6" dmax="8" r="50" />
 		<pos x="10260.424" z="4227.363" a="0" y="339.232" group="Block_Gieraltow"/>
