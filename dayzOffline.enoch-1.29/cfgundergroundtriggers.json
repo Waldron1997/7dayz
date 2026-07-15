@@ -187,6 +187,211 @@
 					"Radius": -1
 				}
 			]
-		}
+		},
+		{
+            "Position": [
+                6909.31298828125,
+                478.5806579589844,
+                1071.7142333984376
+            ],
+            "Orientation": [
+                36.000003814697269,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                8.0,
+                10.0,
+                30.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                6930.23583984375,
+                477.2597961425781,
+                1067.353759765625
+            ],
+            "Orientation": [
+                35.72917175292969,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                30.0,
+                10.0,
+                20.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        6920.74267578125,
+                        474.18603515625,
+                        1075.4541015625
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6922.3662109375,
+                        473.4725646972656,
+                        1068.835205078125
+                    ],
+                    "EyeAccommodation": 0.75,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6927.89013671875,
+                        473.43768310546877,
+                        1069.3651123046876
+                    ],
+                    "EyeAccommodation": 0.44999998807907107,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6934.6318359375,
+                        473.4453430175781,
+                        1065.8250732421876
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6940.21533203125,
+                        473.43438720703127,
+                        1062.02880859375
+                    ],
+                    "EyeAccommodation": 0.1599999964237213,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        },
+        {
+            "Position": [
+                6953.26513671875,
+                488.8712158203125,
+                1040.7965087890626
+            ],
+            "Orientation": [
+                35.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                40.0,
+                40.0,
+                50.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                6917.97119140625,
+                480.09814453125,
+                1050.3721923828126
+            ],
+            "Orientation": [
+                35.72916030883789,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                30.0,
+                20.0,
+                20.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 7.0,
+            "UseLinePointFade": 0,
+            "AmbientSoundType": "",
+            "AmbientSoundSet": "",
+            "Breadcrumbs": [
+                {
+                    "Position": [
+                        6924.71533203125,
+                        482.58966064453127,
+                        1041.46435546875
+                    ],
+                    "EyeAccommodation": 0.20000000298023225,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6918.91064453125,
+                        483.55987548828127,
+                        1047.9942626953126
+                    ],
+                    "EyeAccommodation": 0.4000000059604645,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6922.97412109375,
+                        478.5480651855469,
+                        1053.0260009765626
+                    ],
+                    "EyeAccommodation": 0.6000000238418579,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6920.60498046875,
+                        473.5037841796875,
+                        1052.1707763671876
+                    ],
+                    "EyeAccommodation": 0.800000011920929,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                },
+                {
+                    "Position": [
+                        6908.66748046875,
+                        473.5888977050781,
+                        1055.266845703125
+                    ],
+                    "EyeAccommodation": 0.8999999761581421,
+                    "UseRaycast": 0,
+                    "Radius": -1.0,
+                    "LightLerp": 0
+                }
+            ]
+        }
+	
 	]
 }
